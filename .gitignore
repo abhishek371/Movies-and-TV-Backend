@@ -2,3 +2,4 @@
 /api/__pycache__
 /OOAD_Backend/__pycache__
 .idea
+db.sqlite3
