@@ -63,7 +63,7 @@ def like_movie(request):
 
 def like_tv(request):
     try:
-        tv_id = str(request.POST['movie_id'])
+        tv_id = str(request.POST['tv_id'])
         username = request.POST['username']
     except KeyError:
         raise Http404("Incomplete data")
