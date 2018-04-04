@@ -12,9 +12,9 @@ def login(request):
     try:
         user = User.objects.get(pk=username)
     except User.DoesNotExist:
-        raise Http404("Invalid username")
+        return HttpResponse("Invalid username")
     if user.password != password:
-        raise Http404("Invalid password")
+        return HttpResponse("Invalid password")
     return HttpResponse("Successfully logged in")
 
 
@@ -25,9 +25,10 @@ def signup(request):
         raise Http404("Incomplete data")
     try:
         if User.objects.filter(pk=user_details['username']).exists():
-            raise Http404("User with username={} already exists".format(user_details['username']))
-        User(username=user_details['username'], password=user_details['password'], first_name=user_details['first_name'],
-             last_name=user_details['last_name'], email=user_details['email'], favorites="").save()
+            return HttpResponse("User with username={} already exists".format(user_details['username']))
+        User(username=user_details['username'], password=user_details['password'],
+             first_name=user_details['first_name'], last_name=user_details['last_name'], email=user_details['email'],
+             favorite_movies="", favorite_tv="").save()
         return HttpResponse("Successfully signed up")
     except KeyError:
         raise Http404("Incomplete data")
