@@ -1,36 +1,64 @@
 from django.db import models
+from datetime import date
 
-# Create your models here.
+
+class Director(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    name = models.CharField(max_length=30)
+    dob = models.DateField()
+    sex = models.CharField(max_length=1)
+
+
+class Genre(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    name = models.CharField(max_length=30)
+
+
+class ProductionCompany(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    name = models.CharField(max_length=40)
+    homepage_link = models.CharField(max_length=100)
+    origin_country = models.CharField(max_length=20)
+
+
+class Actor(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    name = models.CharField(max_length=30)
+    dob = models.DateField()
+    sex = models.CharField(max_length=1)
+
+
+class Movies(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    title = models.CharField(max_length=50)
+    release_date = models.DateField()
+    runtime = models.IntegerField()
+    ratings = models.FloatField()
+    production_company = models.ForeignKey(ProductionCompany, on_delete=models.CASCADE)
+    directors = models.ManyToManyField(Director)
+    cast = models.ManyToManyField(Actor)
+    genres = models.ManyToManyField(Genre)
+
+
+class TV(models.Model):
+    id = models.IntegerField(primary_key=True, unique=True)
+    title = models.CharField(max_length=50)
+    start_date = models.DateField()
+    ratings = models.FloatField()
+    no_of_seasons = models.IntegerField()
+    no_of_episodes = models.IntegerField()
+    cast = models.ManyToManyField(Actor)
+    directors = models.ManyToManyField(Director)
+    genres = models.ManyToManyField(Genre)
+    production_companies = models.ManyToManyField(ProductionCompany)
 
 
 class User(models.Model):
     username = models.CharField(max_length=20, primary_key=True, unique=True)
     password = models.CharField(max_length=1000)
-    first_name = models.CharField(max_length=20)
-    last_name = models.CharField(max_length=20)
+    name = models.CharField(max_length=30)
     email = models.CharField(max_length=30)
-    favorite_movies = models.CharField(max_length=1000000000, blank=True)
-    favorite_tv = models.CharField(max_length=1000000000, blank=True)
-
-    def get_favorite_movies(self):
-        return list(map(str, self.favorite_movies.split()))
-
-    def get_favorite_tv(self):
-        return list(map(str, self.favorite_tv.split()))
-
-    def get_favorite_movies_as_string(self):
-        if self.get_favorite_movies():
-            return '["' + '", "'.join(self.get_favorite_movies()) + '"]'
-        else:
-            return "[]"
-
-    def get_favorite_tv_as_string(self):
-        if self.get_favorite_tv():
-            return '["' + '", "'.join(self.get_favorite_tv()) + '"]'
-        else:
-            return "[]"
-
-    def __str__(self):
-        return '{"username": "' + self.username + '", "first_name": "' + self.first_name + '", "last_name": "' + \
-               self.last_name + '", "email": "' + self.email + '", "favorite_movies": ' + \
-               self.get_favorite_movies_as_string() + ', "favorite_tv": ' + self.get_favorite_tv_as_string() + ' }'
+    dob = models.DateField(default=date.today)
+    sex = models.CharField(max_length=1)
+    liked_movies = models.ManyToManyField(Movies)
+    liked_tv = models.ManyToManyField(TV)
