@@ -5,7 +5,6 @@ from datetime import date
 class Director(models.Model):
     id = models.IntegerField(primary_key=True, unique=True)
     name = models.CharField(max_length=30)
-    dob = models.DateField()
     sex = models.CharField(max_length=1)
 
 
@@ -17,14 +16,11 @@ class Genre(models.Model):
 class ProductionCompany(models.Model):
     id = models.IntegerField(primary_key=True, unique=True)
     name = models.CharField(max_length=40)
-    homepage_link = models.CharField(max_length=100)
-    origin_country = models.CharField(max_length=20)
 
 
 class Actor(models.Model):
     id = models.IntegerField(primary_key=True, unique=True)
     name = models.CharField(max_length=30)
-    dob = models.DateField()
     sex = models.CharField(max_length=1)
 
 
@@ -34,7 +30,7 @@ class Movies(models.Model):
     release_date = models.DateField()
     runtime = models.IntegerField()
     ratings = models.FloatField()
-    production_company = models.ForeignKey(ProductionCompany, on_delete=models.CASCADE)
+    production_companies = models.ManyToManyField(ProductionCompany)
     directors = models.ManyToManyField(Director)
     cast = models.ManyToManyField(Actor)
     genres = models.ManyToManyField(Genre)
