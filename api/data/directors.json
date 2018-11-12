@@ -1,0 +1,4100 @@
+{
+    "directors": [{
+        "id": 91268,
+        "name": "Ruben Fleischer",
+        "sex": 2
+    }, {
+        "id": 7087,
+        "name": "Brad Bird",
+        "sex": 2
+    }, {
+        "id": 9033,
+        "name": "Christopher McQuarrie",
+        "sex": 2
+    }, {
+        "id": 12962,
+        "name": "Jon Turteltaub",
+        "sex": 2
+    }, {
+        "id": 51329,
+        "name": "Bradley Cooper",
+        "sex": 2
+    }, {
+        "id": 19272,
+        "name": "Joe Russo",
+        "sex": 2
+    }, {
+        "id": 19271,
+        "name": "Anthony Russo",
+        "sex": 2
+    }, {
+        "id": 1401474,
+        "name": "Corin Hardy",
+        "sex": 2
+    }, {
+        "id": 59026,
+        "name": "Peyton Reed",
+        "sex": 2
+    }, {
+        "id": 57633,
+        "name": "Rawson Marshall Thurber",
+        "sex": 2
+    }, {
+        "id": 51894,
+        "name": "J. A. Bayona",
+        "sex": 2
+    }, {
+        "id": 15218,
+        "name": "James Gunn",
+        "sex": 2
+    }, {
+        "id": 23964,
+        "name": "Gary Ross",
+        "sex": 2
+    }, {
+        "id": 1056121,
+        "name": "Ryan Coogler",
+        "sex": 2
+    }, {
+        "id": 1709468,
+        "name": "Gerard McMurray",
+        "sex": 0
+    }, {
+        "id": 40684,
+        "name": "David Leitch",
+        "sex": 2
+    }, {
+        "id": 10965,
+        "name": "Chris Columbus",
+        "sex": 2
+    }, {
+        "id": 6159,
+        "name": "Ron Howard",
+        "sex": 2
+    }, {
+        "id": 54507,
+        "name": "Jon M. Chu",
+        "sex": 2
+    }, {
+        "id": 11343,
+        "name": "David Yates",
+        "sex": 2
+    }, {
+        "id": 55934,
+        "name": "Taika Waititi",
+        "sex": 2
+    }, {
+        "id": 1704,
+        "name": "Gore Verbinski",
+        "sex": 2
+    }, {
+        "id": 10723,
+        "name": "Mike Newell",
+        "sex": 2
+    }, {
+        "id": 12891,
+        "name": "Joss Whedon",
+        "sex": 2
+    }, {
+        "id": 1179066,
+        "name": "Wes Ball",
+        "sex": 0
+    }, {
+        "id": 53120,
+        "name": "James DeMonaco",
+        "sex": 2
+    }, {
+        "id": 67367,
+        "name": "Rian Johnson",
+        "sex": 2
+    }, {
+        "id": 137427,
+        "name": "Denis Villeneuve",
+        "sex": 2
+    }, {
+        "id": 1150,
+        "name": "Brian De Palma",
+        "sex": 2
+    }, {
+        "id": 17697,
+        "name": "John Krasinski",
+        "sex": 2
+    }, {
+        "id": 525,
+        "name": "Christopher Nolan",
+        "sex": 2
+    }, {
+        "id": 55252,
+        "name": "Tim Miller",
+        "sex": 2
+    }, {
+        "id": 108,
+        "name": "Peter Jackson",
+        "sex": 2
+    }, {
+        "id": 10943,
+        "name": "Francis Lawrence",
+        "sex": 2
+    }, {
+        "id": 15344,
+        "name": "J.J. Abrams",
+        "sex": 2
+    }, {
+        "id": 7467,
+        "name": "David Fincher",
+        "sex": 2
+    }, {
+        "id": 488,
+        "name": "Steven Spielberg",
+        "sex": 2
+    }, {
+        "id": 6884,
+        "name": "Patty Jenkins",
+        "sex": 1
+    }, {
+        "id": 1293994,
+        "name": "Jon Watts",
+        "sex": 2
+    }, {
+        "id": 8,
+        "name": "Lee Unkrich",
+        "sex": 2
+    }, {
+        "id": 15890,
+        "name": "James Foley",
+        "sex": 2
+    }, {
+        "id": 11181,
+        "name": "Kenneth Branagh",
+        "sex": 2
+    }, {
+        "id": 1145520,
+        "name": "Ari Aster",
+        "sex": 2
+    }, {
+        "id": 1,
+        "name": "George Lucas",
+        "sex": 2
+    }, {
+        "id": 2036,
+        "name": "Alex Garland",
+        "sex": 2
+    }, {
+        "id": 72036,
+        "name": "Susan Johnson",
+        "sex": 1
+    }, {
+        "id": 40644,
+        "name": "Chad Stahelski",
+        "sex": 2
+    }, {
+        "id": 47005,
+        "name": "Alan Taylor",
+        "sex": 2
+    }, {
+        "id": 39,
+        "name": "Sam Mendes",
+        "sex": 2
+    }, {
+        "id": 15217,
+        "name": "Zack Snyder",
+        "sex": 2
+    }, {
+        "id": 578,
+        "name": "Ridley Scott",
+        "sex": 2
+    }, {
+        "id": 366,
+        "name": "James Mangold",
+        "sex": 2
+    }, {
+        "id": 15277,
+        "name": "Jon Favreau",
+        "sex": 2
+    }, {
+        "id": 20629,
+        "name": "George Miller",
+        "sex": 2
+    }, {
+        "id": 1776,
+        "name": "Francis Ford Coppola",
+        "sex": 2
+    }, {
+        "id": 865,
+        "name": "Michael Bay",
+        "sex": 2
+    }, {
+        "id": 20907,
+        "name": "Antoine Fuqua",
+        "sex": 2
+    }, {
+        "id": 138,
+        "name": "Quentin Tarantino",
+        "sex": 2
+    }, {
+        "id": 132876,
+        "name": "Brad Peyton",
+        "sex": 2
+    }, {
+        "id": 19769,
+        "name": "David Ayer",
+        "sex": 2
+    }, {
+        "id": 1108,
+        "name": "Shane Black",
+        "sex": 2
+    }, {
+        "id": 136495,
+        "name": "Damien Chazelle",
+        "sex": 2
+    }, {
+        "id": 2710,
+        "name": "James Cameron",
+        "sex": 2
+    }, {
+        "id": 2127,
+        "name": "James Wan",
+        "sex": 2
+    }, {
+        "id": 15557,
+        "name": "Bill Condon",
+        "sex": 2
+    }, {
+        "id": 1213074,
+        "name": "Steven S. DeKnight",
+        "sex": 2
+    }, {
+        "id": 240,
+        "name": "Stanley Kubrick",
+        "sex": 2
+    }, {
+        "id": 17633,
+        "name": "Rob Marshall",
+        "sex": 2
+    }, {
+        "id": 24,
+        "name": "Robert Zemeckis",
+        "sex": 2
+    }, {
+        "id": 87877,
+        "name": "Roar Uthaug",
+        "sex": 2
+    }, {
+        "id": 4027,
+        "name": "Frank Darabont",
+        "sex": 2
+    }, {
+        "id": 19850,
+        "name": "Catherine Hardwicke",
+        "sex": 1
+    }, {
+        "id": 185438,
+        "name": "Genndy Tartakovsky",
+        "sex": 2
+    }, {
+        "id": 11218,
+        "name": "Alfonso Cuarón",
+        "sex": 2
+    }, {
+        "id": 26713,
+        "name": "Chuck Russell",
+        "sex": 2
+    }, {
+        "id": 10828,
+        "name": "Guillermo del Toro",
+        "sex": 2
+    }, {
+        "id": 930707,
+        "name": "Colin Trevorrow",
+        "sex": 2
+    }, {
+        "id": 9032,
+        "name": "Bryan Singer",
+        "sex": 2
+    }, {
+        "id": 9340,
+        "name": "Lana Wachowski",
+        "sex": 1
+    }, {
+        "id": 57270,
+        "name": "Robert Schwentke",
+        "sex": 2
+    }, {
+        "id": 76595,
+        "name": "Byron Howard",
+        "sex": 2
+    }, {
+        "id": 20307,
+        "name": "Joachim Rønning",
+        "sex": 2
+    }, {
+        "id": 20308,
+        "name": "Espen Sandberg",
+        "sex": 2
+    }, {
+        "id": 1167470,
+        "name": "Gary Shore",
+        "sex": 0
+    }, {
+        "id": 5655,
+        "name": "Wes Anderson",
+        "sex": 2
+    }, {
+        "id": 55499,
+        "name": "Scott Derrickson",
+        "sex": 2
+    }, {
+        "id": 2461,
+        "name": "Mel Gibson",
+        "sex": 2
+    }, {
+        "id": 1276373,
+        "name": "Michael Gracey",
+        "sex": 2
+    }, {
+        "id": 957,
+        "name": "Matthew Vaughn",
+        "sex": 2
+    }, {
+        "id": 225160,
+        "name": "Paolo Genovese",
+        "sex": 2
+    }, {
+        "id": 3974,
+        "name": "Miloš Forman",
+        "sex": 2
+    }, {
+        "id": 32278,
+        "name": "Matt Reeves",
+        "sex": 2
+    }, {
+        "id": 59,
+        "name": "Luc Besson",
+        "sex": 2
+    }, {
+        "id": 7187,
+        "name": "Richard Donner",
+        "sex": 2
+    }, {
+        "id": 74091,
+        "name": "Makoto Shinkai",
+        "sex": 2
+    }, {
+        "id": 12028,
+        "name": "John Moore",
+        "sex": 2
+    }, {
+        "id": 1066705,
+        "name": "Vince Marcello",
+        "sex": 0
+    }, {
+        "id": 11090,
+        "name": "Edgar Wright",
+        "sex": 2
+    }, {
+        "id": 9339,
+        "name": "Lilly Wachowski",
+        "sex": 1
+    }, {
+        "id": 227439,
+        "name": "Don Hall",
+        "sex": 2
+    }, {
+        "id": 70238,
+        "name": "Chris Williams",
+        "sex": 2
+    }, {
+        "id": 2636,
+        "name": "Alfred Hitchcock",
+        "sex": 2
+    }, {
+        "id": 37932,
+        "name": "F. Gary Gray",
+        "sex": 2
+    }, {
+        "id": 88967,
+        "name": "Greg Berlanti",
+        "sex": 2
+    }, {
+        "id": 1137903,
+        "name": "Sam Taylor-Johnson",
+        "sex": 1
+    }, {
+        "id": 11770,
+        "name": "John Carpenter",
+        "sex": 2
+    }, {
+        "id": 66739,
+        "name": "Jonathan Liebesman",
+        "sex": 0
+    }, {
+        "id": 1090,
+        "name": "John McTiernan",
+        "sex": 2
+    }, {
+        "id": 11614,
+        "name": "M. Night Shyamalan",
+        "sex": 2
+    }, {
+        "id": 7879,
+        "name": "John Lasseter",
+        "sex": 2
+    }, {
+        "id": 143059,
+        "name": "Patrick Hughes",
+        "sex": 2
+    }, {
+        "id": 402272,
+        "name": "Anna Foerster",
+        "sex": 1
+    }, {
+        "id": 75035,
+        "name": "Olivier Megaton",
+        "sex": 2
+    }, {
+        "id": 223,
+        "name": "Alejandro González Iñárritu",
+        "sex": 2
+    }, {
+        "id": 3288,
+        "name": "Chris Weitz",
+        "sex": 2
+    }, {
+        "id": 608,
+        "name": "Hayao Miyazaki",
+        "sex": 2
+    }, {
+        "id": 57113,
+        "name": "Dan Gilroy",
+        "sex": 2
+    }, {
+        "id": 11694,
+        "name": "Doug Liman",
+        "sex": 2
+    }, {
+        "id": 291263,
+        "name": "Jordan Peele",
+        "sex": 2
+    }, {
+        "id": 84425,
+        "name": "Eric Toledano",
+        "sex": 0
+    }, {
+        "id": 84426,
+        "name": "Olivier Nakache",
+        "sex": 0
+    }, {
+        "id": 5306,
+        "name": "Lasse Hallström",
+        "sex": 2
+    }, {
+        "id": 4385,
+        "name": "Sergio Leone",
+        "sex": 2
+    }, {
+        "id": 228134,
+        "name": "Rupert Sanders",
+        "sex": 2
+    }, {
+        "id": 77965,
+        "name": "Morten Tyldum",
+        "sex": 2
+    }, {
+        "id": 54472,
+        "name": "Martin McDonagh",
+        "sex": 2
+    }, {
+        "id": 17825,
+        "name": "Shawn Levy",
+        "sex": 2
+    }, {
+        "id": 5524,
+        "name": "Andrew Adamson",
+        "sex": 2
+    }, {
+        "id": 12058,
+        "name": "Vicky Jenson",
+        "sex": 1
+    }, {
+        "id": 9855,
+        "name": "Terence Young",
+        "sex": 2
+    }, {
+        "id": 956,
+        "name": "Guy Ritchie",
+        "sex": 2
+    }, {
+        "id": 16544,
+        "name": "Ted Kotcheff",
+        "sex": 2
+    }, {
+        "id": 2199,
+        "name": "Scott Frank",
+        "sex": 2
+    }, {
+        "id": 7623,
+        "name": "Sam Raimi",
+        "sex": 2
+    }, {
+        "id": 16483,
+        "name": "Sylvester Stallone",
+        "sex": 2
+    }, {
+        "id": 51851,
+        "name": "Jake Kasdan",
+        "sex": 2
+    }, {
+        "id": 510,
+        "name": "Tim Burton",
+        "sex": 2
+    }, {
+        "id": 57741,
+        "name": "Mark Osborne",
+        "sex": 2
+    }, {
+        "id": 57742,
+        "name": "John Stevenson",
+        "sex": 2
+    }, {
+        "id": 78160,
+        "name": "Luca Guadagnino",
+        "sex": 2
+    }, {
+        "id": 558929,
+        "name": "David Robert Mitchell",
+        "sex": 2
+    }, {
+        "id": 932088,
+        "name": "Scott Speer",
+        "sex": 2
+    }, {
+        "id": 25598,
+        "name": "Paul Greengrass",
+        "sex": 2
+    }, {
+        "id": 190,
+        "name": "Clint Eastwood",
+        "sex": 2
+    }, {
+        "id": 82194,
+        "name": "Neill Blomkamp",
+        "sex": 2
+    }, {
+        "id": 86270,
+        "name": "Joseph Kosinski",
+        "sex": 2
+    }, {
+        "id": 130938,
+        "name": "Sergei Bodrov",
+        "sex": 0
+    }, {
+        "id": 236539,
+        "name": "Jordan Vogt-Roberts",
+        "sex": 2
+    }, {
+        "id": 165787,
+        "name": "Rich Moore",
+        "sex": 2
+    }, {
+        "id": 1032,
+        "name": "Martin Scorsese",
+        "sex": 2
+    }, {
+        "id": 16938,
+        "name": "Renny Harlin",
+        "sex": 2
+    }, {
+        "id": 55075,
+        "name": "Jeff Wadlow",
+        "sex": 2
+    }, {
+        "id": 15774,
+        "name": "Chris Buck",
+        "sex": 2
+    }, {
+        "id": 1719601,
+        "name": "Nicolai Fuglsig",
+        "sex": 0
+    }, {
+        "id": 87742,
+        "name": "Marc Webb",
+        "sex": 2
+    }, {
+        "id": 3950,
+        "name": "Len Wiseman",
+        "sex": 2
+    }, {
+        "id": 129894,
+        "name": "Gareth Edwards",
+        "sex": 2
+    }, {
+        "id": 71600,
+        "name": "Seth Gordon",
+        "sex": 2
+    }, {
+        "id": 35689,
+        "name": "Keenen Ivory Wayans",
+        "sex": 2
+    }, {
+        "id": 56501,
+        "name": "Michael Spierig",
+        "sex": 2
+    }, {
+        "id": 56502,
+        "name": "Peter Spierig",
+        "sex": 2
+    }, {
+        "id": 5713,
+        "name": "Chris Wedge",
+        "sex": 2
+    }, {
+        "id": 125738,
+        "name": "Daniel Espinosa",
+        "sex": 2
+    }, {
+        "id": 638,
+        "name": "Michael Mann",
+        "sex": 2
+    }, {
+        "id": 1215399,
+        "name": "Taylor Sheridan",
+        "sex": 2
+    }, {
+        "id": 17329,
+        "name": "Neil Burger",
+        "sex": 2
+    }, {
+        "id": 124747,
+        "name": "Pierre Coffin",
+        "sex": 2
+    }, {
+        "id": 124748,
+        "name": "Chris Renaud",
+        "sex": 2
+    }, {
+        "id": 19311,
+        "name": "Stephen Chbosky",
+        "sex": 2
+    }, {
+        "id": 1384266,
+        "name": "Ian Samuels",
+        "sex": 0
+    }, {
+        "id": 3289,
+        "name": "Paul Weitz",
+        "sex": 2
+    }, {
+        "id": 52139,
+        "name": "Seth MacFarlane",
+        "sex": 2
+    }, {
+        "id": 12890,
+        "name": "Pete Docter",
+        "sex": 2
+    }, {
+        "id": 5140,
+        "name": "Wes Craven",
+        "sex": 2
+    }, {
+        "id": 11429,
+        "name": "Hamilton Luske",
+        "sex": 2
+    }, {
+        "id": 11426,
+        "name": "Ben Sharpsteen",
+        "sex": 2
+    }, {
+        "id": 40256,
+        "name": "D.J. Caruso",
+        "sex": 2
+    }, {
+        "id": 1302082,
+        "name": "David F. Sandberg",
+        "sex": 2
+    }, {
+        "id": 1884,
+        "name": "Steven Soderbergh",
+        "sex": 2
+    }, {
+        "id": 19242,
+        "name": "Tony Gilroy",
+        "sex": 2
+    }, {
+        "id": 934803,
+        "name": "Josh Trank",
+        "sex": 2
+    }, {
+        "id": 6431,
+        "name": "Darren Aronofsky",
+        "sex": 2
+    }, {
+        "id": 15810,
+        "name": "Ron Clements",
+        "sex": 2
+    }, {
+        "id": 15811,
+        "name": "John Musker",
+        "sex": 2
+    }, {
+        "id": 1443386,
+        "name": "Brian Fee",
+        "sex": 2
+    }, {
+        "id": 8676,
+        "name": "Dean Devlin",
+        "sex": 2
+    }, {
+        "id": 18865,
+        "name": "Louis Leterrier",
+        "sex": 2
+    }, {
+        "id": 142312,
+        "name": "Jennifer Yuh Nelson",
+        "sex": 1
+    }, {
+        "id": 1454884,
+        "name": "Cedric Nicolas-Troyan",
+        "sex": 0
+    }, {
+        "id": 229962,
+        "name": "Mike Thurmeier",
+        "sex": 2
+    }, {
+        "id": 87059,
+        "name": "Galen T. Chu",
+        "sex": 0
+    }, {
+        "id": 16566,
+        "name": "George P. Cosmatos",
+        "sex": 2
+    }, {
+        "id": 280,
+        "name": "Terry Gilliam",
+        "sex": 2
+    }, {
+        "id": 65630,
+        "name": "Rob Letterman",
+        "sex": 2
+    }, {
+        "id": 116805,
+        "name": "Paul Feig",
+        "sex": 2
+    }, {
+        "id": 5446,
+        "name": "David Hand",
+        "sex": 2
+    }, {
+        "id": 1032536,
+        "name": "Robert Stromberg",
+        "sex": 0
+    }, {
+        "id": 2150,
+        "name": "Kevin Greutert",
+        "sex": 2
+    }, {
+        "id": 59521,
+        "name": "Jaume Collet-Serra",
+        "sex": 2
+    }, {
+        "id": 52935,
+        "name": "John Francis Daley",
+        "sex": 2
+    }, {
+        "id": 74619,
+        "name": "Sean Anders",
+        "sex": 2
+    }, {
+        "id": 58189,
+        "name": "Justin Lin",
+        "sex": 2
+    }, {
+        "id": 9622,
+        "name": "Eric Brevig",
+        "sex": 2
+    }, {
+        "id": 1577,
+        "name": "Richard Kelly",
+        "sex": 2
+    }, {
+        "id": 7,
+        "name": "Andrew Stanton",
+        "sex": 2
+    }, {
+        "id": 36425,
+        "name": "McG",
+        "sex": 2
+    }, {
+        "id": 11266,
+        "name": "James McTeigue",
+        "sex": 2
+    }, {
+        "id": 39996,
+        "name": "Sidney Lumet",
+        "sex": 2
+    }, {
+        "id": 56512,
+        "name": "Tarsem Singh",
+        "sex": 2
+    }, {
+        "id": 930710,
+        "name": "James Ponsoldt",
+        "sex": 2
+    }, {
+        "id": 16837,
+        "name": "Mark Steven Johnson",
+        "sex": 2
+    }, {
+        "id": 72757,
+        "name": "Steve McQueen",
+        "sex": 2
+    }, {
+        "id": 20400,
+        "name": "Tim Story",
+        "sex": 2
+    }, {
+        "id": 35771,
+        "name": "Aditya Chopra",
+        "sex": 0
+    }, {
+        "id": 5714,
+        "name": "Carlos Saldanha",
+        "sex": 2
+    }, {
+        "id": 74752,
+        "name": "Nikolaj Arcel",
+        "sex": 2
+    }, {
+        "id": 41039,
+        "name": "Judd Apatow",
+        "sex": 2
+    }, {
+        "id": 11091,
+        "name": "Brett Ratner",
+        "sex": 2
+    }, {
+        "id": 30711,
+        "name": "Kenneth Lonergan",
+        "sex": 2
+    }, {
+        "id": 52934,
+        "name": "Nicholas Stoller",
+        "sex": 2
+    }, {
+        "id": 1223,
+        "name": "Joel Coen",
+        "sex": 2
+    }, {
+        "id": 3026,
+        "name": "Rob Reiner",
+        "sex": 2
+    }, {
+        "id": 1099862,
+        "name": "Dean Israelite",
+        "sex": 0
+    }, {
+        "id": 57314,
+        "name": "Wolfgang Reitherman",
+        "sex": 2
+    }, {
+        "id": 36588,
+        "name": "Joe Wright",
+        "sex": 2
+    }, {
+        "id": 4014,
+        "name": "Paul W.S. Anderson",
+        "sex": 2
+    }, {
+        "id": 4818,
+        "name": "Roberto Benigni",
+        "sex": 2
+    }, {
+        "id": 1306608,
+        "name": "Adam Robitel",
+        "sex": 0
+    }, {
+        "id": 15812,
+        "name": "Roger Allers",
+        "sex": 2
+    }, {
+        "id": 18898,
+        "name": "Rob Minkoff",
+        "sex": 2
+    }, {
+        "id": 5231,
+        "name": "Wolfgang Petersen",
+        "sex": 2
+    }, {
+        "id": 10702,
+        "name": "Martin Campbell",
+        "sex": 2
+    }, {
+        "id": 13520,
+        "name": "Aaron Sorkin",
+        "sex": 2
+    }, {
+        "id": 1096867,
+        "name": "Thea Sharrock",
+        "sex": 1
+    }, {
+        "id": 2419,
+        "name": "Jean-Pierre Jeunet",
+        "sex": 2
+    }, {
+        "id": 564,
+        "name": "Richard Linklater",
+        "sex": 2
+    }, {
+        "id": 8300,
+        "name": "Kevin Reynolds",
+        "sex": 0
+    }, {
+        "id": 16513,
+        "name": "John G. Avildsen",
+        "sex": 2
+    }, {
+        "id": 10781,
+        "name": "Michael Apted",
+        "sex": 2
+    }, {
+        "id": 9281,
+        "name": "Elizabeth Banks",
+        "sex": 1
+    }, {
+        "id": 72024,
+        "name": "Malcolm D. Lee",
+        "sex": 2
+    }, {
+        "id": 47506,
+        "name": "Drew Goddard",
+        "sex": 2
+    }, {
+        "id": 65734,
+        "name": "Luke Greenfield",
+        "sex": 2
+    }, {
+        "id": 78914,
+        "name": "Noam Murro",
+        "sex": 0
+    }, {
+        "id": 62047,
+        "name": "Gary Trousdale",
+        "sex": 2
+    }, {
+        "id": 62048,
+        "name": "Kirk Wise",
+        "sex": 2
+    }, {
+        "id": 20193,
+        "name": "Mark Neveldine",
+        "sex": 2
+    }, {
+        "id": 20192,
+        "name": "Brian Taylor",
+        "sex": 2
+    }, {
+        "id": 15345,
+        "name": "Alex Kurtzman",
+        "sex": 2
+    }, {
+        "id": 5174,
+        "name": "Barry Sonnenfeld",
+        "sex": 2
+    }, {
+        "id": 18878,
+        "name": "Rob Cohen",
+        "sex": 2
+    }, {
+        "id": 126638,
+        "name": "Mark Andrews",
+        "sex": 2
+    }, {
+        "id": 59803,
+        "name": "Brenda Chapman",
+        "sex": 1
+    }, {
+        "id": 1113116,
+        "name": "Andy Muschietti",
+        "sex": 2
+    }, {
+        "id": 18863,
+        "name": "Eric Darnell",
+        "sex": 2
+    }, {
+        "id": 18864,
+        "name": "Tom McGrath",
+        "sex": 2
+    }, {
+        "id": 12995,
+        "name": "Marc Forster",
+        "sex": 2
+    }, {
+        "id": 6737,
+        "name": "Jay Roach",
+        "sex": 2
+    }, {
+        "id": 7775,
+        "name": "Stephen Sommers",
+        "sex": 2
+    }, {
+        "id": 6201,
+        "name": "Baz Luhrmann",
+        "sex": 2
+    }, {
+        "id": 57193,
+        "name": "Gil Kenan",
+        "sex": 2
+    }, {
+        "id": 29605,
+        "name": "Mikael Håfström",
+        "sex": 0
+    }, {
+        "id": 52870,
+        "name": "Tim Johnson",
+        "sex": 2
+    }, {
+        "id": 52845,
+        "name": "Karey Kirkpatrick",
+        "sex": 2
+    }, {
+        "id": 57130,
+        "name": "Todd Phillips",
+        "sex": 2
+    }, {
+        "id": 45400,
+        "name": "Greta Gerwig",
+        "sex": 1
+    }, {
+        "id": 607,
+        "name": "Zhang Yimou",
+        "sex": 2
+    }, {
+        "id": 50767,
+        "name": "Craig Gillespie",
+        "sex": 2
+    }, {
+        "id": 56411,
+        "name": "Glenn Ficarra",
+        "sex": 2
+    }, {
+        "id": 56412,
+        "name": "John Requa",
+        "sex": 2
+    }, {
+        "id": 2034,
+        "name": "Danny Boyle",
+        "sex": 2
+    }, {
+        "id": 8023,
+        "name": "Kyle Balda",
+        "sex": 2
+    }, {
+        "id": 12786,
+        "name": "Simon West",
+        "sex": 2
+    }, {
+        "id": 8858,
+        "name": "Ivan Reitman",
+        "sex": 2
+    }, {
+        "id": 13235,
+        "name": "Alexander Payne",
+        "sex": 2
+    }, {
+        "id": 12987,
+        "name": "David Zucker",
+        "sex": 2
+    }, {
+        "id": 549310,
+        "name": "Justin Kurzel",
+        "sex": 2
+    }, {
+        "id": 80923,
+        "name": "Måns Mårlind",
+        "sex": 2
+    }, {
+        "id": 80924,
+        "name": "Björn Stein",
+        "sex": 2
+    }, {
+        "id": 2293,
+        "name": "Frank Miller",
+        "sex": 2
+    }, {
+        "id": 2294,
+        "name": "Robert Rodriguez",
+        "sex": 2
+    }, {
+        "id": 10099,
+        "name": "Park Chan-wook",
+        "sex": 2
+    }, {
+        "id": 121830,
+        "name": "Nathan Greno",
+        "sex": 2
+    }, {
+        "id": 69797,
+        "name": "Dean DeBlois",
+        "sex": 2
+    }, {
+        "id": 66193,
+        "name": "Chris Sanders",
+        "sex": 2
+    }, {
+        "id": 225976,
+        "name": "Dan Scanlon",
+        "sex": 2
+    }, {
+        "id": 15175,
+        "name": "William Friedkin",
+        "sex": 2
+    }, {
+        "id": 42,
+        "name": "Lars von Trier",
+        "sex": 2
+    }, {
+        "id": 58838,
+        "name": "Marco Brambilla",
+        "sex": 2
+    }, {
+        "id": 40223,
+        "name": "Joe Carnahan",
+        "sex": 2
+    }, {
+        "id": 10930,
+        "name": "Irvin Kershner",
+        "sex": 2
+    }, {
+        "id": 35475,
+        "name": "Sean S. Cunningham",
+        "sex": 2
+    }, {
+        "id": 13079,
+        "name": "Gavin Hood",
+        "sex": 2
+    }, {
+        "id": 71068,
+        "name": "Phyllida Lloyd",
+        "sex": 1
+    }, {
+        "id": 1051305,
+        "name": "Oriol Paulo",
+        "sex": 2
+    }, {
+        "id": 74396,
+        "name": "Tomas Alfredson",
+        "sex": 2
+    }, {
+        "id": 3451,
+        "name": "Mel Stuart",
+        "sex": 2
+    }, {
+        "id": 814,
+        "name": "Tony Kaye",
+        "sex": 2
+    }, {
+        "id": 1230252,
+        "name": "Peter Howitt",
+        "sex": 2
+    }, {
+        "id": 7395,
+        "name": "Bobby Farrelly",
+        "sex": 2
+    }, {
+        "id": 7396,
+        "name": "Peter Farrelly",
+        "sex": 2
+    }, {
+        "id": 10491,
+        "name": "Paul Verhoeven",
+        "sex": 2
+    }, {
+        "id": 28239,
+        "name": "David Twohy",
+        "sex": 0
+    }, {
+        "id": 64151,
+        "name": "Mike Mitchell",
+        "sex": 2
+    }, {
+        "id": 118489,
+        "name": "Walt Dohrn",
+        "sex": 2
+    }, {
+        "id": 4762,
+        "name": "Paul Thomas Anderson",
+        "sex": 2
+    }, {
+        "id": 27571,
+        "name": "David Slade",
+        "sex": 2
+    }, {
+        "id": 84962,
+        "name": "Stiles White",
+        "sex": 0
+    }, {
+        "id": 6733,
+        "name": "Dan Mazer",
+        "sex": 2
+    }, {
+        "id": 76927,
+        "name": "Tommy Wirkola",
+        "sex": 2
+    }, {
+        "id": 40243,
+        "name": "Gil Junger",
+        "sex": 2
+    }, {
+        "id": 893,
+        "name": "Tony Scott",
+        "sex": 2
+    }, {
+        "id": 5602,
+        "name": "David Lynch",
+        "sex": 2
+    }, {
+        "id": 1141683,
+        "name": "Theodore Melfi",
+        "sex": 2
+    }, {
+        "id": 1413740,
+        "name": "Aleksander Bach",
+        "sex": 0
+    }, {
+        "id": 4945,
+        "name": "Joe Johnston",
+        "sex": 2
+    }, {
+        "id": 55710,
+        "name": "Adam McKay",
+        "sex": 2
+    }, {
+        "id": 2690,
+        "name": "Peter Weir",
+        "sex": 2
+    }, {
+        "id": 1301933,
+        "name": "Julius Onah",
+        "sex": 2
+    }, {
+        "id": 1927,
+        "name": "Blake Edwards",
+        "sex": 2
+    }, {
+        "id": 932248,
+        "name": "Fede Alvarez",
+        "sex": 2
+    }, {
+        "id": 12098,
+        "name": "Chris Miller",
+        "sex": 2
+    }, {
+        "id": 144816,
+        "name": "Chris McKay",
+        "sex": 2
+    }, {
+        "id": 1224,
+        "name": "Ethan Coen",
+        "sex": 2
+    }, {
+        "id": 4723,
+        "name": "Brian Helgeland",
+        "sex": 2
+    }, {
+        "id": 49903,
+        "name": "Tim Hill",
+        "sex": 2
+    }, {
+        "id": 65314,
+        "name": "Giuseppe Tornatore",
+        "sex": 2
+    }, {
+        "id": 35452,
+        "name": "Corey Yuen",
+        "sex": 0
+    }, {
+        "id": 132239,
+        "name": "Babak Najafi",
+        "sex": 2
+    }, {
+        "id": 880,
+        "name": "Ben Affleck",
+        "sex": 2
+    }, {
+        "id": 12936,
+        "name": "Jim Abrahams",
+        "sex": 2
+    }, {
+        "id": 3415,
+        "name": "Jerry Zucker",
+        "sex": 2
+    }, {
+        "id": 12079,
+        "name": "Kelly Asbury",
+        "sex": 2
+    }, {
+        "id": 12080,
+        "name": "Conrad Vernon",
+        "sex": 2
+    }, {
+        "id": 19800,
+        "name": "Richard Marquand",
+        "sex": 2
+    }, {
+        "id": 35453,
+        "name": "Pierre Morel",
+        "sex": 2
+    }, {
+        "id": 8876,
+        "name": "Randal Kleiser",
+        "sex": 2
+    }, {
+        "id": 44114,
+        "name": "Simon J. Smith",
+        "sex": 2
+    }, {
+        "id": 65530,
+        "name": "Mike Gabriel",
+        "sex": 2
+    }, {
+        "id": 65531,
+        "name": "Eric Goldberg",
+        "sex": 2
+    }, {
+        "id": 64864,
+        "name": "Clyde Geronimi",
+        "sex": 2
+    }, {
+        "id": 11434,
+        "name": "Wilfred Jackson",
+        "sex": 2
+    }, {
+        "id": 21684,
+        "name": "Bong Joon-ho",
+        "sex": 2
+    }, {
+        "id": 3055,
+        "name": "David Mackenzie",
+        "sex": 2
+    }, {
+        "id": 92784,
+        "name": "Barry Jenkins",
+        "sex": 2
+    }, {
+        "id": 32593,
+        "name": "Steven Brill",
+        "sex": 2
+    }, {
+        "id": 52112,
+        "name": "Steve Carr",
+        "sex": 2
+    }, {
+        "id": 21085,
+        "name": "Alex Proyas",
+        "sex": 2
+    }, {
+        "id": 1119418,
+        "name": "Hugo Gélin",
+        "sex": 2
+    }, {
+        "id": 14392,
+        "name": "Kathryn Bigelow",
+        "sex": 1
+    }, {
+        "id": 52842,
+        "name": "Garth Jennings",
+        "sex": 2
+    }, {
+        "id": 19274,
+        "name": "Seth Rogen",
+        "sex": 2
+    }, {
+        "id": 54734,
+        "name": "Evan Goldberg",
+        "sex": 2
+    }, {
+        "id": 77357,
+        "name": "Rupert Wyatt",
+        "sex": 2
+    }, {
+        "id": 5501,
+        "name": "Gary Fleder",
+        "sex": 2
+    }, {
+        "id": 65167,
+        "name": "Scott Cooper",
+        "sex": 2
+    }, {
+        "id": 57646,
+        "name": "Henry Selick",
+        "sex": 2
+    }, {
+        "id": 71729,
+        "name": "Steve Martino",
+        "sex": 2
+    }, {
+        "id": 7213,
+        "name": "Jonathan Mostow",
+        "sex": 2
+    }, {
+        "id": 52576,
+        "name": "José Padilha",
+        "sex": 2
+    }, {
+        "id": 1053420,
+        "name": "Josh Boone",
+        "sex": 2
+    }, {
+        "id": 22215,
+        "name": "Michael Showalter",
+        "sex": 2
+    }, {
+        "id": 9181,
+        "name": "Edward Zwick",
+        "sex": 2
+    }, {
+        "id": 5026,
+        "name": "Akira Kurosawa",
+        "sex": 2
+    }, {
+        "id": 11151,
+        "name": "Nick Cassavetes",
+        "sex": 2
+    }, {
+        "id": 9049,
+        "name": "Victor Fleming",
+        "sex": 2
+    }, {
+        "id": 3893,
+        "name": "David S. Goyer",
+        "sex": 2
+    }, {
+        "id": 17883,
+        "name": "David O. Russell",
+        "sex": 2
+    }, {
+        "id": 20646,
+        "name": "Gabriele Muccino",
+        "sex": 2
+    }, {
+        "id": 991868,
+        "name": "Ari Sandel",
+        "sex": 0
+    }, {
+        "id": 17016,
+        "name": "Neil Jordan",
+        "sex": 0
+    }, {
+        "id": 57134,
+        "name": "James Wong",
+        "sex": 2
+    }, {
+        "id": 201,
+        "name": "Michel Gondry",
+        "sex": 2
+    }, {
+        "id": 1152,
+        "name": "Oliver Stone",
+        "sex": 2
+    }, {
+        "id": 54795,
+        "name": "Troy Duffy",
+        "sex": 2
+    }, {
+        "id": 5953,
+        "name": "Spike Jonze",
+        "sex": 2
+    }, {
+        "id": 70651,
+        "name": "Stephen Hillenburg",
+        "sex": 2
+    }, {
+        "id": 1269,
+        "name": "Kevin Costner",
+        "sex": 2
+    }, {
+        "id": 6046,
+        "name": "Roland Emmerich",
+        "sex": 2
+    }, {
+        "id": 54584,
+        "name": "Jesse Dylan",
+        "sex": 2
+    }, {
+        "id": 36602,
+        "name": "Peter Berg",
+        "sex": 2
+    }, {
+        "id": 24045,
+        "name": "Joseph Gordon-Levitt",
+        "sex": 2
+    }, {
+        "id": 1243,
+        "name": "Woody Allen",
+        "sex": 2
+    }, {
+        "id": 142272,
+        "name": "Henry Joost",
+        "sex": 2
+    }, {
+        "id": 142276,
+        "name": "Ariel Schulman",
+        "sex": 2
+    }, {
+        "id": 11154,
+        "name": "Matt Ross",
+        "sex": 2
+    }, {
+        "id": 52114,
+        "name": "Jon Lucas",
+        "sex": 2
+    }, {
+        "id": 4956,
+        "name": "Bernardo Bertolucci",
+        "sex": 2
+    }, {
+        "id": 16589,
+        "name": "Peter MacDonald",
+        "sex": 2
+    }, {
+        "id": 76998,
+        "name": "James Marsh",
+        "sex": 2
+    }, {
+        "id": 568322,
+        "name": "Dan Trachtenberg",
+        "sex": 2
+    }, {
+        "id": 70500,
+        "name": "Tom Hooper",
+        "sex": 2
+    }, {
+        "id": 82511,
+        "name": "Will Gluck",
+        "sex": 2
+    }, {
+        "id": 1572145,
+        "name": "Stella Meghie",
+        "sex": 0
+    }, {
+        "id": 107446,
+        "name": "Phil Lord",
+        "sex": 2
+    }, {
+        "id": 18844,
+        "name": "John Madden",
+        "sex": 0
+    }, {
+        "id": 1201,
+        "name": "Garry Marshall",
+        "sex": 2
+    }, {
+        "id": 69416,
+        "name": "Bradley Raymond",
+        "sex": 2
+    }, {
+        "id": 5216,
+        "name": "Gus Van Sant",
+        "sex": 2
+    }, {
+        "id": 14639,
+        "name": "Mel Brooks",
+        "sex": 2
+    }, {
+        "id": 34849,
+        "name": "Ted Demme",
+        "sex": 2
+    }, {
+        "id": 64045,
+        "name": "Kirk Jones",
+        "sex": 0
+    }, {
+        "id": 13484,
+        "name": "Jim Sharman",
+        "sex": 2
+    }, {
+        "id": 54248,
+        "name": "Christopher B. Landon",
+        "sex": 2
+    }, {
+        "id": 10051,
+        "name": "Tobe Hooper",
+        "sex": 2
+    }, {
+        "id": 2675,
+        "name": "Darren Lynn Bousman",
+        "sex": 2
+    }, {
+        "id": 17597,
+        "name": "Juan Carlos Fresnadillo",
+        "sex": 2
+    }, {
+        "id": 10808,
+        "name": "Stephen Norrington",
+        "sex": 2
+    }, {
+        "id": 142587,
+        "name": "Greg Tiernan",
+        "sex": 2
+    }, {
+        "id": 47640,
+        "name": "Clark Johnson",
+        "sex": 2
+    }, {
+        "id": 63820,
+        "name": "Christian Ditter",
+        "sex": 2
+    }, {
+        "id": 68843,
+        "name": "Jon Hurwitz",
+        "sex": 2
+    }, {
+        "id": 7409,
+        "name": "J.B. Rogers",
+        "sex": 0
+    }, {
+        "id": 84931,
+        "name": "Michael Cuesta",
+        "sex": 2
+    }, {
+        "id": 2042,
+        "name": "Stephen Hopkins",
+        "sex": 2
+    }, {
+        "id": 8246,
+        "name": "Barry Levinson",
+        "sex": 2
+    }, {
+        "id": 26205,
+        "name": "James Bobin",
+        "sex": 2
+    }, {
+        "id": 9915,
+        "name": "Guy Hamilton",
+        "sex": 2
+    }, {
+        "id": 1265056,
+        "name": "Jorge R. Gutierrez",
+        "sex": 0
+    }, {
+        "id": 56710,
+        "name": "Oliver Parker",
+        "sex": 2
+    }, {
+        "id": 16378,
+        "name": "Mary Harron",
+        "sex": 1
+    }, {
+        "id": 2662,
+        "name": "Frank Capra",
+        "sex": 2
+    }, {
+        "id": 151007,
+        "name": "Peter Ramsey",
+        "sex": 2
+    }, {
+        "id": 7256,
+        "name": "Lee Tamahori",
+        "sex": 2
+    }, {
+        "id": 13015,
+        "name": "Phillip Noyce",
+        "sex": 2
+    }, {
+        "id": 55789,
+        "name": "Tate Taylor",
+        "sex": 2
+    }, {
+        "id": 17812,
+        "name": "Gregory Hoblit",
+        "sex": 2
+    }, {
+        "id": 8193,
+        "name": "Florian Henckel von Donnersmarck",
+        "sex": 2
+    }, {
+        "id": 41671,
+        "name": "Nimród Antal",
+        "sex": 2
+    }, {
+        "id": 1724,
+        "name": "Roger Spottiswoode",
+        "sex": 2
+    }, {
+        "id": 42994,
+        "name": "David Dobkin",
+        "sex": 2
+    }, {
+        "id": 1614,
+        "name": "Ang Lee",
+        "sex": 2
+    }, {
+        "id": 7018,
+        "name": "Richard Curtis",
+        "sex": 2
+    }, {
+        "id": 111588,
+        "name": "J Blakeson",
+        "sex": 2
+    }, {
+        "id": 155267,
+        "name": "Christopher Miller",
+        "sex": 2
+    }, {
+        "id": 53304,
+        "name": "Peter Lord",
+        "sex": 2
+    }, {
+        "id": 7314,
+        "name": "Nick Park",
+        "sex": 2
+    }, {
+        "id": 29214,
+        "name": "Anne Fletcher",
+        "sex": 1
+    }, {
+        "id": 54050,
+        "name": "Mark Waters",
+        "sex": 2
+    }, {
+        "id": 19346,
+        "name": "Niels Arden Oplev",
+        "sex": 2
+    }, {
+        "id": 8685,
+        "name": "Andrew Niccol",
+        "sex": 2
+    }, {
+        "id": 109857,
+        "name": "Thor Freudenthal",
+        "sex": 2
+    }, {
+        "id": 3964,
+        "name": "Patrick Tatopoulos",
+        "sex": 2
+    }, {
+        "id": 65629,
+        "name": "Bibo Bergeron",
+        "sex": 2
+    }, {
+        "id": 66190,
+        "name": "Tony Bancroft",
+        "sex": 2
+    }, {
+        "id": 66191,
+        "name": "Barry Cook",
+        "sex": 2
+    }, {
+        "id": 10707,
+        "name": "Terry Jones",
+        "sex": 2
+    }, {
+        "id": 4275,
+        "name": "Alain Chabat",
+        "sex": 2
+    }, {
+        "id": 21198,
+        "name": "Peter Sohn",
+        "sex": 2
+    }, {
+        "id": 1278722,
+        "name": "Trish Sie",
+        "sex": 1
+    }, {
+        "id": 45419,
+        "name": "Ry Russo-Young",
+        "sex": 0
+    }, {
+        "id": 1524,
+        "name": "Harold Ramis",
+        "sex": 2
+    }, {
+        "id": 12114,
+        "name": "Michael Cimino",
+        "sex": 2
+    }, {
+        "id": 1215,
+        "name": "Raja Gosnell",
+        "sex": 2
+    }, {
+        "id": 4610,
+        "name": "John Landis",
+        "sex": 2
+    }, {
+        "id": 5281,
+        "name": "Spike Lee",
+        "sex": 2
+    }, {
+        "id": 4586,
+        "name": "Pitof",
+        "sex": 2
+    }, {
+        "id": 12095,
+        "name": "Cody Cameron",
+        "sex": 2
+    }, {
+        "id": 1046494,
+        "name": "Kris Pearn",
+        "sex": 0
+    }, {
+        "id": 65310,
+        "name": "Kenny Ortega",
+        "sex": 2
+    }, {
+        "id": 71923,
+        "name": "Shane Acker",
+        "sex": 2
+    }, {
+        "id": 126945,
+        "name": "Brian Percival",
+        "sex": 2
+    }, {
+        "id": 26714,
+        "name": "John R. Leonetti",
+        "sex": 2
+    }, {
+        "id": 7399,
+        "name": "Ben Stiller",
+        "sex": 2
+    }, {
+        "id": 239571,
+        "name": "Carl Rinsch",
+        "sex": 0
+    }, {
+        "id": 2209,
+        "name": "Jan de Bont",
+        "sex": 2
+    }, {
+        "id": 81850,
+        "name": "Duncan Jones",
+        "sex": 2
+    }, {
+        "id": 17698,
+        "name": "Nancy Meyers",
+        "sex": 1
+    }, {
+        "id": 185,
+        "name": "Katsuhiro Otomo",
+        "sex": 2
+    }, {
+        "id": 67753,
+        "name": "Mark L. Lester",
+        "sex": 2
+    }, {
+        "id": 34517,
+        "name": "Trey Parker",
+        "sex": 2
+    }, {
+        "id": 9158,
+        "name": "Sharon Maguire",
+        "sex": 1
+    }, {
+        "id": 34891,
+        "name": "Mike Johnson",
+        "sex": 0
+    }, {
+        "id": 29009,
+        "name": "Ken Kwapis",
+        "sex": 0
+    }, {
+        "id": 11887,
+        "name": "Brad Silberling",
+        "sex": 2
+    }, {
+        "id": 44113,
+        "name": "Steve Hickner",
+        "sex": 2
+    }, {
+        "id": 20218,
+        "name": "Eric Bress",
+        "sex": 2
+    }, {
+        "id": 2352,
+        "name": "Jean-Jacques Annaud",
+        "sex": 2
+    }, {
+        "id": 4499,
+        "name": "Tom Shadyac",
+        "sex": 2
+    }, {
+        "id": 31074,
+        "name": "Kinji Fukasaku",
+        "sex": 2
+    }, {
+        "id": 17871,
+        "name": "John Hamburg",
+        "sex": 2
+    }, {
+        "id": 67813,
+        "name": "Baltasar Kormákur",
+        "sex": 2
+    }, {
+        "id": 58829,
+        "name": "Darrell Rooney",
+        "sex": 2
+    }, {
+        "id": 61847,
+        "name": "Ethan Maniquis",
+        "sex": 0
+    }, {
+        "id": 12989,
+        "name": "Andrew Davis",
+        "sex": 2
+    }, {
+        "id": 5065,
+        "name": "David Frankel",
+        "sex": 2
+    }, {
+        "id": 3556,
+        "name": "Roman Polański",
+        "sex": 2
+    }, {
+        "id": 58375,
+        "name": "Andy Fickman",
+        "sex": 2
+    }, {
+        "id": 1281387,
+        "name": "Clay Kaytis",
+        "sex": 0
+    }, {
+        "id": 52701,
+        "name": "Fergal Reilly",
+        "sex": 0
+    }, {
+        "id": 8010,
+        "name": "Doug Sweetland",
+        "sex": 0
+    }, {
+        "id": 455,
+        "name": "Paul Haggis",
+        "sex": 2
+    }, {
+        "id": 122423,
+        "name": "Yorgos Lanthimos",
+        "sex": 2
+    }, {
+        "id": 52443,
+        "name": "Jason Reitman",
+        "sex": 2
+    }, {
+        "id": 138781,
+        "name": "Robert Eggers",
+        "sex": 2
+    }, {
+        "id": 53333,
+        "name": "John Hillcoat",
+        "sex": 2
+    }, {
+        "id": 17494,
+        "name": "Dennis Dugan",
+        "sex": 2
+    }, {
+        "id": 323,
+        "name": "Curtis Hanson",
+        "sex": 2
+    }, {
+        "id": 5834,
+        "name": "Robert Stevenson",
+        "sex": 2
+    }, {
+        "id": 90591,
+        "name": "Oren Peli",
+        "sex": 2
+    }, {
+        "id": 55299,
+        "name": "Mark Herman",
+        "sex": 0
+    }, {
+        "id": 2679,
+        "name": "David Hackl",
+        "sex": 2
+    }, {
+        "id": 93214,
+        "name": "Steven Quale",
+        "sex": 2
+    }, {
+        "id": 69371,
+        "name": "Jean-Marc Vallée",
+        "sex": 2
+    }, {
+        "id": 225142,
+        "name": "Philippe de Chauveron",
+        "sex": 0
+    }, {
+        "id": 836732,
+        "name": "Jake Schreier",
+        "sex": 2
+    }, {
+        "id": 40,
+        "name": "Orson Welles",
+        "sex": 2
+    }, {
+        "id": 8557,
+        "name": "Fernando Meirelles",
+        "sex": 2
+    }, {
+        "id": 1978,
+        "name": "Iain Softley",
+        "sex": 2
+    }, {
+        "id": 23430,
+        "name": "Timur Bekmambetov",
+        "sex": 2
+    }, {
+        "id": 56661,
+        "name": "Jonathan Levine",
+        "sex": 2
+    }, {
+        "id": 57433,
+        "name": "George Ogilvie",
+        "sex": 2
+    }, {
+        "id": 1769,
+        "name": "Sofia Coppola",
+        "sex": 1
+    }, {
+        "id": 51918,
+        "name": "Harmony Korine",
+        "sex": 2
+    }, {
+        "id": 5345,
+        "name": "Bennett Miller",
+        "sex": 2
+    }, {
+        "id": 18596,
+        "name": "Taylor Hackford",
+        "sex": 0
+    }, {
+        "id": 13426,
+        "name": "Peter Segal",
+        "sex": 2
+    }, {
+        "id": 120615,
+        "name": "Tom Ford",
+        "sex": 2
+    }, {
+        "id": 551463,
+        "name": "Mike Flanagan",
+        "sex": 2
+    }, {
+        "id": 13927,
+        "name": "Kurt Wimmer",
+        "sex": 2
+    }, {
+        "id": 135113,
+        "name": "André Øvredal",
+        "sex": 2
+    }, {
+        "id": 566328,
+        "name": "Michael Sucsy",
+        "sex": 2
+    }, {
+        "id": 2228,
+        "name": "Sean Penn",
+        "sex": 2
+    }, {
+        "id": 3045,
+        "name": "P.J. Hogan",
+        "sex": 2
+    }, {
+        "id": 142013,
+        "name": "Gareth Evans",
+        "sex": 2
+    }, {
+        "id": 11447,
+        "name": "Albert Hughes",
+        "sex": 2
+    }, {
+        "id": 11448,
+        "name": "Allen Hughes",
+        "sex": 2
+    }, {
+        "id": 876,
+        "name": "Jonathan Hensleigh",
+        "sex": 2
+    }, {
+        "id": 559,
+        "name": "Wally Pfister",
+        "sex": 2
+    }, {
+        "id": 12905,
+        "name": "Ash Brannon",
+        "sex": 2
+    }, {
+        "id": 716,
+        "name": "Emile Ardolino",
+        "sex": 2
+    }, {
+        "id": 83281,
+        "name": "Lenny Abrahamson",
+        "sex": 2
+    }, {
+        "id": 21183,
+        "name": "Nicolas Winding Refn",
+        "sex": 2
+    }, {
+        "id": 100734,
+        "name": "Johannes Roberts",
+        "sex": 2
+    }, {
+        "id": 101666,
+        "name": "Paul King",
+        "sex": 2
+    }, {
+        "id": 54733,
+        "name": "Greg Mottola",
+        "sex": 2
+    }, {
+        "id": 52609,
+        "name": "Breck Eisner",
+        "sex": 2
+    }, {
+        "id": 5572,
+        "name": "Joel Schumacher",
+        "sex": 2
+    }, {
+        "id": 236859,
+        "name": "Michaël R. Roskam",
+        "sex": 0
+    }, {
+        "id": 21673,
+        "name": "Ericson Core",
+        "sex": 2
+    }, {
+        "id": 77003,
+        "name": "Gavin O'Connor",
+        "sex": 2
+    }, {
+        "id": 18357,
+        "name": "Peter Hewitt",
+        "sex": 2
+    }, {
+        "id": 52961,
+        "name": "Dennis Gansel",
+        "sex": 2
+    }, {
+        "id": 939147,
+        "name": "Yeon Sang-ho",
+        "sex": 2
+    }, {
+        "id": 518,
+        "name": "Danny DeVito",
+        "sex": 2
+    }, {
+        "id": 71267,
+        "name": "Kirk De Micco",
+        "sex": 2
+    }, {
+        "id": 16847,
+        "name": "Eli Roth",
+        "sex": 2
+    }, {
+        "id": 58552,
+        "name": "Burr Steers",
+        "sex": 2
+    }, {
+        "id": 109745,
+        "name": "Lee Toland Krieger",
+        "sex": 2
+    }, {
+        "id": 15002,
+        "name": "Dean Parisot",
+        "sex": 2
+    }, {
+        "id": 51984,
+        "name": "Mimi Leder",
+        "sex": 1
+    }, {
+        "id": 64141,
+        "name": "David Gordon Green",
+        "sex": 2
+    }, {
+        "id": 20561,
+        "name": "James Gray",
+        "sex": 2
+    }, {
+        "id": 5292,
+        "name": "Denzel Washington",
+        "sex": 2
+    }, {
+        "id": 57370,
+        "name": "Frank Coraci",
+        "sex": 2
+    }, {
+        "id": 45117,
+        "name": "John Carney",
+        "sex": 2
+    }, {
+        "id": 6037,
+        "name": "Colin Strause",
+        "sex": 2
+    }, {
+        "id": 6038,
+        "name": "Greg Strause",
+        "sex": 2
+    }, {
+        "id": 1033661,
+        "name": "Travis Knight",
+        "sex": 2
+    }, {
+        "id": 4600,
+        "name": "Joe Dante",
+        "sex": 2
+    }, {
+        "id": 36697,
+        "name": "Gábor Csupó",
+        "sex": 2
+    }, {
+        "id": 1173102,
+        "name": "Garth Davis",
+        "sex": 2
+    }, {
+        "id": 52779,
+        "name": "Ryan Murphy",
+        "sex": 2
+    }, {
+        "id": 769,
+        "name": "Martin Brest",
+        "sex": 2
+    }, {
+        "id": 21981,
+        "name": "Harald Zwart",
+        "sex": 2
+    }, {
+        "id": 15775,
+        "name": "Kevin Lima",
+        "sex": 2
+    }, {
+        "id": 47333,
+        "name": "John Wells",
+        "sex": 2
+    }, {
+        "id": 31024,
+        "name": "Betty Thomas",
+        "sex": 1
+    }, {
+        "id": 13265,
+        "name": "Franklin J. Schaffner",
+        "sex": 2
+    }, {
+        "id": 4755,
+        "name": "David R. Ellis",
+        "sex": 2
+    }, {
+        "id": 508,
+        "name": "David Koepp",
+        "sex": 2
+    }, {
+        "id": 19840,
+        "name": "Alejandro Amenábar",
+        "sex": 2
+    }, {
+        "id": 468,
+        "name": "Stephen Daldry",
+        "sex": 2
+    }, {
+        "id": 95320,
+        "name": "Rodrigo Cortés",
+        "sex": 2
+    }, {
+        "id": 14911,
+        "name": "Penny Marshall",
+        "sex": 1
+    }, {
+        "id": 11505,
+        "name": "John Hughes",
+        "sex": 2
+    }, {
+        "id": 58897,
+        "name": "Sam Fell",
+        "sex": 2
+    }, {
+        "id": 61952,
+        "name": "Aaron Blaise",
+        "sex": 2
+    }, {
+        "id": 61949,
+        "name": "Robert Walker",
+        "sex": 2
+    }, {
+        "id": 30715,
+        "name": "Terrence Malick",
+        "sex": 2
+    }, {
+        "id": 1383612,
+        "name": "Dan Kwan",
+        "sex": 0
+    }, {
+        "id": 1317730,
+        "name": "Daniel Scheinert",
+        "sex": 0
+    }, {
+        "id": 4109,
+        "name": "Michael Curtiz",
+        "sex": 2
+    }, {
+        "id": 14520,
+        "name": "John Sturges",
+        "sex": 2
+    }, {
+        "id": 66728,
+        "name": "Jonathan Glazer",
+        "sex": 2
+    }, {
+        "id": 8843,
+        "name": "Mick Jackson",
+        "sex": 2
+    }, {
+        "id": 144476,
+        "name": "Hiromasa Yonebayashi",
+        "sex": 2
+    }, {
+        "id": 26875,
+        "name": "Hideo Nakata",
+        "sex": 2
+    }, {
+        "id": 1744,
+        "name": "Robert Wise",
+        "sex": 2
+    }, {
+        "id": 54525,
+        "name": "Jaume Balagueró",
+        "sex": 2
+    }, {
+        "id": 54526,
+        "name": "Paco Plaza",
+        "sex": 2
+    }, {
+        "id": 7881,
+        "name": "Jill Culton",
+        "sex": 1
+    }, {
+        "id": 52691,
+        "name": "Anthony Stacchi",
+        "sex": 2
+    }, {
+        "id": 13284,
+        "name": "Stanley Donen",
+        "sex": 2
+    }, {
+        "id": 13294,
+        "name": "Gene Kelly",
+        "sex": 2
+    }, {
+        "id": 54040,
+        "name": "John Lee Hancock",
+        "sex": 2
+    }, {
+        "id": 116357,
+        "name": "Scott Stewart",
+        "sex": 0
+    }, {
+        "id": 36804,
+        "name": "Peter Chelsom",
+        "sex": 2
+    }, {
+        "id": 16842,
+        "name": "Stephen J. Anderson",
+        "sex": 2
+    }, {
+        "id": 7017,
+        "name": "Roger Michell",
+        "sex": 2
+    }, {
+        "id": 224,
+        "name": "David Cronenberg",
+        "sex": 2
+    }, {
+        "id": 29922,
+        "name": "Marcus Nispel",
+        "sex": 2
+    }, {
+        "id": 40345,
+        "name": "Don Bluth",
+        "sex": 2
+    }, {
+        "id": 2406,
+        "name": "Mathieu Kassovitz",
+        "sex": 2
+    }, {
+        "id": 89112,
+        "name": "Anthony Leondis",
+        "sex": 2
+    }, {
+        "id": 26849,
+        "name": "Daniel Myrick",
+        "sex": 2
+    }, {
+        "id": 26850,
+        "name": "Eduardo Sánchez",
+        "sex": 2
+    }, {
+        "id": 1130801,
+        "name": "Gabriele Mainetti",
+        "sex": 2
+    }, {
+        "id": 2239,
+        "name": "Anthony Minghella",
+        "sex": 2
+    }, {
+        "id": 54559,
+        "name": "Christian Alvart",
+        "sex": 2
+    }, {
+        "id": 52803,
+        "name": "Etan Cohen",
+        "sex": 0
+    }, {
+        "id": 21879,
+        "name": "Simon Wells",
+        "sex": 2
+    }, {
+        "id": 1461,
+        "name": "George Clooney",
+        "sex": 2
+    }, {
+        "id": 197,
+        "name": "David Silverman",
+        "sex": 2
+    }, {
+        "id": 18184,
+        "name": "Xavier Gens",
+        "sex": 2
+    }, {
+        "id": 20739,
+        "name": "Adam Shankman",
+        "sex": 2
+    }, {
+        "id": 17867,
+        "name": "Tom McCarthy",
+        "sex": 0
+    }, {
+        "id": 67717,
+        "name": "Michel Hazanavicius",
+        "sex": 2
+    }, {
+        "id": 1061773,
+        "name": "Jake Szymanski",
+        "sex": 0
+    }, {
+        "id": 168667,
+        "name": "Jason Moore",
+        "sex": 2
+    }, {
+        "id": 16834,
+        "name": "Allen Coulter",
+        "sex": 2
+    }, {
+        "id": 2460,
+        "name": "Randall Wallace",
+        "sex": 2
+    }, {
+        "id": 64139,
+        "name": "Joshua Michael Stern",
+        "sex": 2
+    }, {
+        "id": 4489,
+        "name": "Steve Oedekerk",
+        "sex": 2
+    }, {
+        "id": 8029,
+        "name": "Jimmy Hayward",
+        "sex": 2
+    }, {
+        "id": 4453,
+        "name": "Thomas Vinterberg",
+        "sex": 2
+    }, {
+        "id": 74655,
+        "name": "Jeremy Saulnier",
+        "sex": 0
+    }, {
+        "id": 58498,
+        "name": "Dominic Sena",
+        "sex": 2
+    }, {
+        "id": 13848,
+        "name": "Charlie Chaplin",
+        "sex": 2
+    }, {
+        "id": 16294,
+        "name": "Jonathan Demme",
+        "sex": 2
+    }, {
+        "id": 17051,
+        "name": "James Franco",
+        "sex": 2
+    }, {
+        "id": 17403,
+        "name": "Mike Judge",
+        "sex": 2
+    }, {
+        "id": 293911,
+        "name": "Scott Waugh",
+        "sex": 2
+    }, {
+        "id": 62768,
+        "name": "William Brent Bell",
+        "sex": 2
+    }, {
+        "id": 1038,
+        "name": "Jodie Foster",
+        "sex": 1
+    }, {
+        "id": 54025,
+        "name": "Karyn Kusama",
+        "sex": 1
+    }, {
+        "id": 20031,
+        "name": "Samuel Bayer",
+        "sex": 2
+    }, {
+        "id": 1101410,
+        "name": "Dave Green",
+        "sex": 0
+    }, {
+        "id": 16863,
+        "name": "Todd Haynes",
+        "sex": 2
+    }, {
+        "id": 11401,
+        "name": "John Woo",
+        "sex": 2
+    }, {
+        "id": 1071,
+        "name": "Tom Tykwer",
+        "sex": 2
+    }, {
+        "id": 141450,
+        "name": "Mel Smith",
+        "sex": 2
+    }, {
+        "id": 5342,
+        "name": "Mike Nichols",
+        "sex": 2
+    }, {
+        "id": 12238,
+        "name": "David Lean",
+        "sex": 2
+    }, {
+        "id": 31511,
+        "name": "Grant Heslov",
+        "sex": 2
+    }, {
+        "id": 59291,
+        "name": "Alexandre Aja",
+        "sex": 2
+    }, {
+        "id": 94403,
+        "name": "F. Javier Gutiérrez",
+        "sex": 0
+    }, {
+        "id": 84061,
+        "name": "Daniel Barnz",
+        "sex": 2
+    }, {
+        "id": 33485,
+        "name": "Ron Underwood",
+        "sex": 2
+    }, {
+        "id": 8296,
+        "name": "Christophe Gans",
+        "sex": 2
+    }, {
+        "id": 217174,
+        "name": "Paul Tibbitt",
+        "sex": 0
+    }, {
+        "id": 17046,
+        "name": "Gary Winick",
+        "sex": 2
+    }, {
+        "id": 43141,
+        "name": "Pete Travis",
+        "sex": 2
+    }, {
+        "id": 9248,
+        "name": "Nora Ephron",
+        "sex": 1
+    }, {
+        "id": 58137,
+        "name": "Chris Noonan",
+        "sex": 2
+    }, {
+        "id": 19303,
+        "name": "Kevin Smith",
+        "sex": 2
+    }, {
+        "id": 144221,
+        "name": "Brad Furman",
+        "sex": 2
+    }, {
+        "id": 61411,
+        "name": "Mark Dindal",
+        "sex": 2
+    }, {
+        "id": 2128,
+        "name": "Leigh Whannell",
+        "sex": 2
+    }, {
+        "id": 11701,
+        "name": "Angelina Jolie",
+        "sex": 1
+    }, {
+        "id": 5367,
+        "name": "Zach Braff",
+        "sex": 2
+    }, {
+        "id": 69003,
+        "name": "John Lounsbery",
+        "sex": 2
+    }, {
+        "id": 67607,
+        "name": "Art Stevens",
+        "sex": 2
+    }, {
+        "id": 83287,
+        "name": "Lynne Ramsay",
+        "sex": 1
+    }, {
+        "id": 23227,
+        "name": "Steven Knight",
+        "sex": 2
+    }, {
+        "id": 10001,
+        "name": "William Wyler",
+        "sex": 2
+    }, {
+        "id": 23945,
+        "name": "Gérard Pirès",
+        "sex": 0
+    }, {
+        "id": 2836,
+        "name": "Kimberly Peirce",
+        "sex": 1
+    }, {
+        "id": 56717,
+        "name": "Tom Vaughan",
+        "sex": 2
+    }, {
+        "id": 20133,
+        "name": "Tod Williams",
+        "sex": 2
+    }, {
+        "id": 1192754,
+        "name": "Peter Landesman",
+        "sex": 0
+    }, {
+        "id": 36797,
+        "name": "Robert Luketic",
+        "sex": 2
+    }, {
+        "id": 2291,
+        "name": "Paul McGuigan",
+        "sex": 0
+    }, {
+        "id": 94075,
+        "name": "David Soren",
+        "sex": 0
+    }, {
+        "id": 164554,
+        "name": "Jennifer Kent",
+        "sex": 0
+    }, {
+        "id": 18281,
+        "name": "Donald Petrie",
+        "sex": 2
+    }, {
+        "id": 11649,
+        "name": "Cameron Crowe",
+        "sex": 2
+    }, {
+        "id": 52358,
+        "name": "Boaz Yakin",
+        "sex": 2
+    }, {
+        "id": 66121,
+        "name": "George Tillman, Jr.",
+        "sex": 2
+    }, {
+        "id": 107490,
+        "name": "Jaco Van Dormael",
+        "sex": 2
+    }, {
+        "id": 98631,
+        "name": "Adam Wingard",
+        "sex": 2
+    }, {
+        "id": 68770,
+        "name": "Mark Rosman",
+        "sex": 2
+    }, {
+        "id": 1392433,
+        "name": "Julia Ducournau",
+        "sex": 1
+    }, {
+        "id": 18356,
+        "name": "Stephen Herek",
+        "sex": 2
+    }, {
+        "id": 57405,
+        "name": "Jeff Schaffer",
+        "sex": 2
+    }, {
+        "id": 3388,
+        "name": "James L. Brooks",
+        "sex": 2
+    }, {
+        "id": 23677,
+        "name": "Joe Pytka",
+        "sex": 2
+    }, {
+        "id": 1211000,
+        "name": "Tom Gormican",
+        "sex": 2
+    }, {
+        "id": 1224031,
+        "name": "Alfonso Gomez-Rejon",
+        "sex": 0
+    }, {
+        "id": 3227,
+        "name": "Steve Pink",
+        "sex": 2
+    }, {
+        "id": 6482,
+        "name": "John Singleton",
+        "sex": 2
+    }, {
+        "id": 57607,
+        "name": "Stephen Chow",
+        "sex": 2
+    }, {
+        "id": 85675,
+        "name": "Rajkumar Hirani",
+        "sex": 0
+    }, {
+        "id": 1299380,
+        "name": "Nima Nourizadeh",
+        "sex": 0
+    }, {
+        "id": 17167,
+        "name": "Andy Tennant",
+        "sex": 2
+    }, {
+        "id": 7313,
+        "name": "Steve Box",
+        "sex": 2
+    }, {
+        "id": 41285,
+        "name": "Kirsten Sheridan",
+        "sex": 1
+    }, {
+        "id": 53334,
+        "name": "Jim Sheridan",
+        "sex": 2
+    }, {
+        "id": 5877,
+        "name": "Vincenzo Natali",
+        "sex": 2
+    }, {
+        "id": 3146,
+        "name": "Billy Wilder",
+        "sex": 2
+    }, {
+        "id": 55936,
+        "name": "Jemaine Clement",
+        "sex": 2
+    }, {
+        "id": 33254,
+        "name": "Jim Gillespie",
+        "sex": 2
+    }, {
+        "id": 52479,
+        "name": "Eli Craig",
+        "sex": 2
+    }, {
+        "id": 1368144,
+        "name": "Max Nichols",
+        "sex": 0
+    }, {
+        "id": 2163,
+        "name": "Richard LaGravenese",
+        "sex": 2
+    }, {
+        "id": 139098,
+        "name": "Derek Cianfrance",
+        "sex": 2
+    }, {
+        "id": 152111,
+        "name": "Douglas Mackinnon",
+        "sex": 2
+    }, {
+        "id": 974,
+        "name": "Dexter Fletcher",
+        "sex": 2
+    }, {
+        "id": 67604,
+        "name": "Ted Berman",
+        "sex": 2
+    }, {
+        "id": 68573,
+        "name": "Walt Becker",
+        "sex": 2
+    }, {
+        "id": 57581,
+        "name": "Neil Marshall",
+        "sex": 2
+    }, {
+        "id": 146439,
+        "name": "James Ward Byrkit",
+        "sex": 2
+    }, {
+        "id": 62854,
+        "name": "Akiva Schaffer",
+        "sex": 2
+    }, {
+        "id": 12180,
+        "name": "Mamoru Oshii",
+        "sex": 2
+    }, {
+        "id": 56359,
+        "name": "Lexi Alexander",
+        "sex": 0
+    }, {
+        "id": 33192,
+        "name": "Joel Edgerton",
+        "sex": 2
+    }, {
+        "id": 56349,
+        "name": "Victor Salva",
+        "sex": 2
+    }, {
+        "id": 46076,
+        "name": "Tom Dey",
+        "sex": 2
+    }, {
+        "id": 114597,
+        "name": "Julie Anne Robinson",
+        "sex": 1
+    }, {
+        "id": 16328,
+        "name": "Adam Brooks",
+        "sex": 2
+    }, {
+        "id": 69081,
+        "name": "Kim Jee-woon",
+        "sex": 2
+    }, {
+        "id": 37618,
+        "name": "Andrew Dominik",
+        "sex": 2
+    }, {
+        "id": 149495,
+        "name": "Marti Noxon",
+        "sex": 1
+    }, {
+        "id": 77269,
+        "name": "John Crowley",
+        "sex": 2
+    }, {
+        "id": 25453,
+        "name": "Stefen Fangmeier",
+        "sex": 0
+    }, {
+        "id": 56660,
+        "name": "Lorna Cook",
+        "sex": 1
+    }, {
+        "id": 72344,
+        "name": "Asger Leth",
+        "sex": 0
+    }, {
+        "id": 8482,
+        "name": "Robert Mulligan",
+        "sex": 2
+    }, {
+        "id": 225009,
+        "name": "Pablo Larraín",
+        "sex": 2
+    }, {
+        "id": 20310,
+        "name": "Takashi Shimizu",
+        "sex": 2
+    }, {
+        "id": 33183,
+        "name": "David Bowers",
+        "sex": 2
+    }, {
+        "id": 37948,
+        "name": "Brad Anderson",
+        "sex": 2
+    }, {
+        "id": 1257827,
+        "name": "Max Joseph",
+        "sex": 2
+    }, {
+        "id": 77147,
+        "name": "John Erick Dowdle",
+        "sex": 0
+    }, {
+        "id": 45459,
+        "name": "Mike Cahill",
+        "sex": 2
+    }, {
+        "id": 983909,
+        "name": "Kelly Fremon Craig",
+        "sex": 1
+    }, {
+        "id": 592493,
+        "name": "David Lowery",
+        "sex": 2
+    }, {
+        "id": 16356,
+        "name": "Steve Bendelack",
+        "sex": 2
+    }, {
+        "id": 52405,
+        "name": "Michael Hoffman",
+        "sex": 2
+    }, {
+        "id": 85340,
+        "name": "Eric Lartigau",
+        "sex": 0
+    }, {
+        "id": 33433,
+        "name": "Scott Hicks",
+        "sex": 2
+    }, {
+        "id": 20237,
+        "name": "Beeban Kidron",
+        "sex": 1
+    }, {
+        "id": 1284493,
+        "name": "R.J. Cutler",
+        "sex": 0
+    }, {
+        "id": 82335,
+        "name": "Richard Glatzer",
+        "sex": 0
+    }, {
+        "id": 82337,
+        "name": "Wash Westmoreland",
+        "sex": 2
+    }, {
+        "id": 229568,
+        "name": "Lisa Azuelos",
+        "sex": 1
+    }, {
+        "id": 58448,
+        "name": "Penelope Spheeris",
+        "sex": 1
+    }, {
+        "id": 53069,
+        "name": "Anna Boden",
+        "sex": 1
+    }, {
+        "id": 53068,
+        "name": "Ryan Fleck",
+        "sex": 2
+    }, {
+        "id": 1169024,
+        "name": "Ilya Naishuller",
+        "sex": 2
+    }, {
+        "id": 71872,
+        "name": "Jeff Nichols",
+        "sex": 2
+    }, {
+        "id": 63306,
+        "name": "James Watkins",
+        "sex": 0
+    }, {
+        "id": 11873,
+        "name": "Roger Kumble",
+        "sex": 2
+    }, {
+        "id": 4786,
+        "name": "Richard Attenborough",
+        "sex": 2
+    }, {
+        "id": 20019,
+        "name": "Lee Daniels",
+        "sex": 2
+    }, {
+        "id": 309,
+        "name": "Pedro Almodóvar",
+        "sex": 2
+    }, {
+        "id": 52244,
+        "name": "Juan Diego Solanas",
+        "sex": 0
+    }, {
+        "id": 21031,
+        "name": "Alejandro Agresti",
+        "sex": 2
+    }, {
+        "id": 56194,
+        "name": "Paolo Sorrentino",
+        "sex": 2
+    }, {
+        "id": 6767,
+        "name": "Larry Charles",
+        "sex": 2
+    }, {
+        "id": 57434,
+        "name": "Amy Heckerling",
+        "sex": 1
+    }, {
+        "id": 2589,
+        "name": "Terry George",
+        "sex": 2
+    }, {
+        "id": 57446,
+        "name": "Mark Romanek",
+        "sex": 2
+    }, {
+        "id": 1176,
+        "name": "Lone Scherfig",
+        "sex": 1
+    }, {
+        "id": 76422,
+        "name": "Ric Roman Waugh",
+        "sex": 2
+    }, {
+        "id": 929825,
+        "name": "Ava DuVernay",
+        "sex": 1
+    }, {
+        "id": 56911,
+        "name": "Les Mayfield",
+        "sex": 2
+    }, {
+        "id": 17649,
+        "name": "Alexander Witt",
+        "sex": 2
+    }, {
+        "id": 37627,
+        "name": "Dany Boon",
+        "sex": 2
+    }, {
+        "id": 7832,
+        "name": "Oliver Hirschbiegel",
+        "sex": 2
+    }, {
+        "id": 16959,
+        "name": "Jonathan Dayton",
+        "sex": 2
+    }, {
+        "id": 16960,
+        "name": "Valerie Faris",
+        "sex": 1
+    }, {
+        "id": 71280,
+        "name": "Michael Dowse",
+        "sex": 2
+    }, {
+        "id": 1032011,
+        "name": "Afonso Poyart",
+        "sex": 0
+    }, {
+        "id": 30368,
+        "name": "Jon Kasdan",
+        "sex": 2
+    }, {
+        "id": 54644,
+        "name": "Joel Zwick",
+        "sex": 2
+    }, {
+        "id": 1462214,
+        "name": "David Sandberg",
+        "sex": 2
+    }, {
+        "id": 155531,
+        "name": "Joe Cornish",
+        "sex": 2
+    }, {
+        "id": 63571,
+        "name": "Wilson Yip",
+        "sex": 2
+    }, {
+        "id": 57199,
+        "name": "Mark Mylod",
+        "sex": 2
+    }, {
+        "id": 143593,
+        "name": "Xavier Dolan",
+        "sex": 2
+    }, {
+        "id": 17458,
+        "name": "Abdellatif Kechiche",
+        "sex": 2
+    }, {
+        "id": 8020,
+        "name": "John Kahrs",
+        "sex": 0
+    }, {
+        "id": 52968,
+        "name": "Russell Mulcahy",
+        "sex": 2
+    }, {
+        "id": 628,
+        "name": "Isao Takahata",
+        "sex": 2
+    }, {
+        "id": 1212114,
+        "name": "Mark Cendrowski",
+        "sex": 2
+    }, {
+        "id": 20647,
+        "name": "Steve Conrad",
+        "sex": 2
+    }, {
+        "id": 1886,
+        "name": "Ted Griffin",
+        "sex": 0
+    }, {
+        "id": 107065,
+        "name": "Arthur Marks",
+        "sex": 2
+    }, {
+        "id": 65429,
+        "name": "Kunihiko Yuyama"
+    }, {
+        "id": 137703,
+        "name": "Morio Asaka",
+        "sex": 2
+    }, {
+        "id": 87472,
+        "name": "James Whitmore Jr.",
+        "sex": 2
+    }, {
+        "id": 1067794,
+        "name": "Hayato Date",
+        "sex": 2
+    }, {
+        "id": 934662,
+        "name": "Shinji Ishihira",
+        "sex": 0
+    }, {
+        "id": 1552659,
+        "name": "Moira Demos",
+        "sex": 0
+    }, {
+        "id": 34396,
+        "name": "Roxann Dawson",
+        "sex": 1
+    }, {
+        "id": 59423,
+        "name": "Ramsey Nickell",
+        "sex": 0
+    }, {
+        "id": 2026701,
+        "name": "Brett Morgan",
+        "sex": 0
+    }, {
+        "id": 1148353,
+        "name": "Tetsuro Araki",
+        "sex": 2
+    }, {
+        "id": 80747,
+        "name": "Steve Shill",
+        "sex": 2
+    }, {
+        "id": 1918557,
+        "name": "Henk Handloegten",
+        "sex": 0
+    }, {
+        "id": 20254,
+        "name": "Achim von Borries",
+        "sex": 2
+    }, {
+        "id": 1612459,
+        "name": "Julie Andem",
+        "sex": 1
+    }, {
+        "id": 9264,
+        "name": "Sergio Mimica-Gezzan"
+    }, {
+        "id": 67589,
+        "name": "Alastair Fothergill",
+        "sex": 2
+    }, {
+        "id": 148497,
+        "name": "Phil Churchward",
+        "sex": 2
+    }, {
+        "id": 84633,
+        "name": "Brian Klein",
+        "sex": 2
+    }, {
+        "id": 1331122,
+        "name": "Kit Lynch-Robinson",
+        "sex": 0
+    }, {
+        "id": 1509979,
+        "name": "Shingo Natsume",
+        "sex": 2
+    }, {
+        "id": 1624751,
+        "name": "Masaharu Watanabe",
+        "sex": 0
+    }, {
+        "id": 1668340,
+        "name": "Nate Cash",
+        "sex": 0
+    }, {
+        "id": 1450349,
+        "name": "Nick Cross",
+        "sex": 0
+    }, {
+        "id": 81586,
+        "name": "Robert Alvarez",
+        "sex": 0
+    }, {
+        "id": 124563,
+        "name": "Larry Leichliter",
+        "sex": 0
+    }, {
+        "id": 81590,
+        "name": "Eddy Houchins",
+        "sex": 0
+    }, {
+        "id": 1230816,
+        "name": "Ken Bruce",
+        "sex": 0
+    }, {
+        "id": 2091700,
+        "name": "Bert Youn",
+        "sex": 0
+    }, {
+        "id": 56342,
+        "name": "Shinichiro Watanabe",
+        "sex": 2
+    }, {
+        "id": 11777,
+        "name": "Tommy Lee Wallace",
+        "sex": 2
+    }, {
+        "id": 1483352,
+        "name": "Tom Connors",
+        "sex": 0
+    }, {
+        "id": 173957,
+        "name": "Matt Earl Beesley",
+        "sex": 0
+    }, {
+        "id": 33279,
+        "name": "Danny Cannon",
+        "sex": 0
+    }, {
+        "id": 47724,
+        "name": "Tom Shankland",
+        "sex": 2
+    }, {
+        "id": 1424868,
+        "name": "Kouichi Hatsumi",
+        "sex": 2
+    }, {
+        "id": 225103,
+        "name": "Francesca Comencini",
+        "sex": 1
+    }, {
+        "id": 88467,
+        "name": "Claudio Cupellini",
+        "sex": 2
+    }, {
+        "id": 932533,
+        "name": "Stefano Sollima",
+        "sex": 2
+    }, {
+        "id": 1215383,
+        "name": "David Straiton",
+        "sex": 2
+    }, {
+        "id": 95893,
+        "name": "James Strong",
+        "sex": 0
+    }, {
+        "id": 1216417,
+        "name": "Euros Lyn",
+        "sex": 0
+    }, {
+        "id": 72584,
+        "name": "Fred Berner",
+        "sex": 2
+    }, {
+        "id": 933739,
+        "name": "Zal Batmanglij",
+        "sex": 2
+    }, {
+        "id": 157730,
+        "name": "Greg Yaitanes",
+        "sex": 2
+    }, {
+        "id": 123186,
+        "name": "Daniel Grou",
+        "sex": 2
+    }, {
+        "id": 229002,
+        "name": "Jeff Renfroe",
+        "sex": 2
+    }, {
+        "id": 83923,
+        "name": "Seiji Mizushima",
+        "sex": 0
+    }, {
+        "id": 1788459,
+        "name": "Stephane Berry"
+    }, {
+        "id": 66960,
+        "name": "Dennie Gordon",
+        "sex": 1
+    }, {
+        "id": 1011,
+        "name": "Susanne Bier",
+        "sex": 1
+    }, {
+        "id": 1389816,
+        "name": "Ariel Kleiman",
+        "sex": 0
+    }, {
+        "id": 10757,
+        "name": "Jane Campion",
+        "sex": 1
+    }, {
+        "id": 63709,
+        "name": "Craig R. Baxley",
+        "sex": 2
+    }, {
+        "id": 77921,
+        "name": "Hideaki Anno",
+        "sex": 2
+    }, {
+        "id": 1478607,
+        "name": "Samira Radsi",
+        "sex": 1
+    }, {
+        "id": 221522,
+        "name": "Edward Berger",
+        "sex": 2
+    }, {
+        "id": 163097,
+        "name": "John David Coles"
+    }, {
+        "id": 126951,
+        "name": "Simon Langton",
+        "sex": 2
+    }, {
+        "id": 2106843,
+        "name": "Luke Watson",
+        "sex": 0
+    }, {
+        "id": 123798,
+        "name": "Sheree Folkson",
+        "sex": 1
+    }, {
+        "id": 68580,
+        "name": "Christoph Schrewe",
+        "sex": 2
+    }, {
+        "id": 283184,
+        "name": "Metin Hüseyin",
+        "sex": 0
+    }, {
+        "id": 1221981,
+        "name": "Susan Tully",
+        "sex": 1
+    }, {
+        "id": 19142,
+        "name": "Kenneth Johnson",
+        "sex": 2
+    }, {
+        "id": 1894978,
+        "name": "Oded Ruskin",
+        "sex": 0
+    }, {
+        "id": 39189,
+        "name": "Stephen Merchant",
+        "sex": 2
+    }, {
+        "id": 17835,
+        "name": "Ricky Gervais",
+        "sex": 2
+    }, {
+        "id": 1041951,
+        "name": "Philippe Barcinski",
+        "sex": 2
+    }, {
+        "id": 1349038,
+        "name": "Stéphane Bernasconi"
+    }, {
+        "id": 1515552,
+        "name": "Martin Dennis",
+        "sex": 0
+    }, {
+        "id": 135340,
+        "name": "Kenneth Kainz",
+        "sex": 2
+    }, {
+        "id": 141227,
+        "name": "Natasha Arthy",
+        "sex": 0
+    }, {
+        "id": 64796,
+        "name": "Tom Holland",
+        "sex": 2
+    }, {
+        "id": 208527,
+        "name": "Yann Demange",
+        "sex": 0
+    }, {
+        "id": 1407537,
+        "name": "Jin Hyuk",
+        "sex": 2
+    }, {
+        "id": 61824,
+        "name": "Mick Garris",
+        "sex": 2
+    }, {
+        "id": 80609,
+        "name": "Jerry London",
+        "sex": 2
+    }, {
+        "id": 67781,
+        "name": "Peter Kosminsky",
+        "sex": 2
+    }, {
+        "id": 568693,
+        "name": "Jymn Magon"
+    }, {
+        "id": 1458349,
+        "name": "Art Vitello"
+    }, {
+        "id": 223551,
+        "name": "S.J. Clarkson",
+        "sex": 1
+    }, {
+        "id": 83198,
+        "name": "Allan Arkush"
+    }, {
+        "id": 204484,
+        "name": "Ken Burns",
+        "sex": 2
+    }, {
+        "id": 1999365,
+        "name": "Hiroshi Iketomi",
+        "sex": 0
+    }, {
+        "id": 1112119,
+        "name": "Osamu Kobayashi",
+        "sex": 2
+    }, {
+        "id": 1515691,
+        "name": "Ayumu Kotake",
+        "sex": 0
+    }, {
+        "id": 1999366,
+        "name": "Hiroshi Kurimoto",
+        "sex": 0
+    }, {
+        "id": 1999367,
+        "name": "Katsuichi Nakayama",
+        "sex": 0
+    }, {
+        "id": 1164927,
+        "name": "Masahiko Otsuka",
+        "sex": 0
+    }, {
+        "id": 1810999,
+        "name": "Hiroaki Tomita",
+        "sex": 0
+    }, {
+        "id": 931555,
+        "name": "Hiroyuki Yamaga",
+        "sex": 0
+    }, {
+        "id": 1506154,
+        "name": "Akitoshi Yokoyama",
+        "sex": 2
+    }, {
+        "id": 1362698,
+        "name": "Tomohiko Itou",
+        "sex": 2
+    }, {
+        "id": 1247708,
+        "name": "Tatsuya Ishihara",
+        "sex": 2
+    }, {
+        "id": 1724565,
+        "name": "Lee Eung Bok"
+    }, {
+        "id": 556141,
+        "name": "Craig Viveiros",
+        "sex": 0
+    }, {
+        "id": 23287,
+        "name": "Andrew Jarecki",
+        "sex": 2
+    }, {
+        "id": 107395,
+        "name": "Nick Willing",
+        "sex": 2
+    }, {
+        "id": 8573,
+        "name": "Thomas J. Wright",
+        "sex": 2
+    }, {
+        "id": 28741,
+        "name": "Michael Rymer",
+        "sex": 2
+    }, {
+        "id": 1224743,
+        "name": "Christine Gernon",
+        "sex": 0
+    }, {
+        "id": 1685889,
+        "name": "Kyohei Ishiguro",
+        "sex": 0
+    }, {
+        "id": 77177,
+        "name": "Fuminori Kizaki",
+        "sex": 0
+    }, {
+        "id": 18254,
+        "name": "Simon Wincer",
+        "sex": 0
+    }, {
+        "id": 58728,
+        "name": "Andrei Konchalovsky",
+        "sex": 2
+    }, {
+        "id": 630423,
+        "name": "Vyacheslav Kotyonochkin",
+        "sex": 0
+    }, {
+        "id": 931450,
+        "name": "Mamoru Kanbe",
+        "sex": 0
+    }, {
+        "id": 230642,
+        "name": "Naoyoshi Shiotani",
+        "sex": 2
+    }, {
+        "id": 83706,
+        "name": "Duane Clark",
+        "sex": 0
+    }, {
+        "id": 25735,
+        "name": "Christian Duguay",
+        "sex": 2
+    }, {
+        "id": 6648,
+        "name": "Ingmar Bergman",
+        "sex": 2
+    }, {
+        "id": 210769,
+        "name": "Philipp Kadelbach",
+        "sex": 2
+    }, {
+        "id": 1219201,
+        "name": "Michael Engler"
+    }, {
+        "id": 1048458,
+        "name": "Saul Metzstein"
+    }, {
+        "id": 144766,
+        "name": "Satoshi Nishimura",
+        "sex": 2
+    }, {
+        "id": 1222157,
+        "name": "Shukō Murase",
+        "sex": 2
+    }, {
+        "id": 1252022,
+        "name": "Lee Hyung-min"
+    }, {
+        "id": 992866,
+        "name": "Takahiro Omori",
+        "sex": 2
+    }, {
+        "id": 1144885,
+        "name": "Yuzuru Tachikawa",
+        "sex": 2
+    }, {
+        "id": 77086,
+        "name": "Jonas Pate"
+    }, {
+        "id": 1222946,
+        "name": "Amy Sherman-Palladino",
+        "sex": 0
+    }, {
+        "id": 1213784,
+        "name": "Daniel Palladino",
+        "sex": 0
+    }, {
+        "id": 30365,
+        "name": "Michael Caton-Jones",
+        "sex": 2
+    }, {
+        "id": 21161,
+        "name": "Jamie Mitchell"
+    }, {
+        "id": 16214,
+        "name": "Mario Van Peebles",
+        "sex": 2
+    }, {
+        "id": 52038,
+        "name": "Thomas Carter",
+        "sex": 2
+    }, {
+        "id": 5696,
+        "name": "Bruce Beresford",
+        "sex": 2
+    }, {
+        "id": 1128,
+        "name": "Agnieszka Holland",
+        "sex": 1
+    }, {
+        "id": 28839,
+        "name": "Colin Teague",
+        "sex": 2
+    }, {
+        "id": 211659,
+        "name": "James Kent",
+        "sex": 2
+    }, {
+        "id": 1222374,
+        "name": "Jamie Payne",
+        "sex": 0
+    }, {
+        "id": 1065015,
+        "name": "Óskar Thór Axelsson",
+        "sex": 0
+    }, {
+        "id": 1156484,
+        "name": "Baldvin Zophoníasson",
+        "sex": 0
+    }, {
+        "id": 1476536,
+        "name": "Börkur Sigþórsson",
+        "sex": 0
+    }, {
+        "id": 43222,
+        "name": "Michael Grossman",
+        "sex": 2
+    }, {
+        "id": 1126,
+        "name": "Krzysztof Kieślowski",
+        "sex": 2
+    }, {
+        "id": 1748949,
+        "name": "Chris Robinson",
+        "sex": 0
+    }, {
+        "id": 1210632,
+        "name": "Seiji Kishi",
+        "sex": 2
+    }, {
+        "id": 1252958,
+        "name": "Yukihiro Miyamoto",
+        "sex": 0
+    }, {
+        "id": 555094,
+        "name": "Akiyuki Shinbo",
+        "sex": 2
+    }, {
+        "id": 29406,
+        "name": "Joey Ansah",
+        "sex": 2
+    }, {
+        "id": 152249,
+        "name": "Jim O'Hanlon",
+        "sex": 0
+    }, {
+        "id": 1582093,
+        "name": "Koutarou Tamura"
+    }, {
+        "id": 94007,
+        "name": "John Power",
+        "sex": 2
+    }, {
+        "id": 1369220,
+        "name": "Andy Wilson",
+        "sex": 0
+    }, {
+        "id": 120930,
+        "name": "Jon Jones",
+        "sex": 2
+    }, {
+        "id": 74566,
+        "name": "Yves Simoneau",
+        "sex": 2
+    }, {
+        "id": 33880,
+        "name": "Dick Lowry",
+        "sex": 2
+    }, {
+        "id": 572511,
+        "name": "Henri de Turenne",
+        "sex": 0
+    }, {
+        "id": 1251913,
+        "name": "Craig David Wallace"
+    }, {
+        "id": 99203,
+        "name": "Toshiya Shinohara",
+        "sex": 2
+    }, {
+        "id": 173847,
+        "name": "Harry Bradbeer",
+        "sex": 2
+    }, {
+        "id": 107547,
+        "name": "Ryutaro Nakamura",
+        "sex": 0
+    }, {
+        "id": 15868,
+        "name": "Uli Edel",
+        "sex": 0
+    }, {
+        "id": 59412,
+        "name": "Michael Patrick Jann",
+        "sex": 2
+    }, {
+        "id": 37186,
+        "name": "Josée Dayan",
+        "sex": 2
+    }, {
+        "id": 136531,
+        "name": "John Alexander",
+        "sex": 2
+    }, {
+        "id": 25873,
+        "name": "Jon Cassar",
+        "sex": 0
+    }, {
+        "id": 113600,
+        "name": "Susanna White",
+        "sex": 1
+    }, {
+        "id": 1672876,
+        "name": "Sayo Yamamoto",
+        "sex": 1
+    }, {
+        "id": 588912,
+        "name": "Jakob Verbruggen",
+        "sex": 0
+    }, {
+        "id": 1318704,
+        "name": "Alik Sakharov",
+        "sex": 0
+    }, {
+        "id": 160177,
+        "name": "Adam Davidson",
+        "sex": 2
+    }, {
+        "id": 5872,
+        "name": "Joshua Marston",
+        "sex": 0
+    }, {
+        "id": 45627,
+        "name": "Nelson McCormick",
+        "sex": 2
+    }, {
+        "id": 114334,
+        "name": "David Michôd",
+        "sex": 2
+    }, {
+        "id": 134156,
+        "name": "Sam Miller",
+        "sex": 2
+    }, {
+        "id": 94155,
+        "name": "Stefan Schwartz",
+        "sex": 2
+    }, {
+        "id": 87103,
+        "name": "Paul Seed",
+        "sex": 2
+    }, {
+        "id": 42111,
+        "name": "Bryan Spicer"
+    }, {
+        "id": 56998,
+        "name": "Dwight H. Little"
+    }, {
+        "id": 155598,
+        "name": "Leslie Libman"
+    }, {
+        "id": 65115,
+        "name": "Keith Samples"
+    }, {
+        "id": 937129,
+        "name": "Jean-Xavier de Lestrade",
+        "sex": 0
+    }, {
+        "id": 6155,
+        "name": "Kristoffer Nyholm",
+        "sex": 0
+    }, {
+        "id": 90048,
+        "name": "Noriyuki Abe",
+        "sex": 2
+    }, {
+        "id": 212240,
+        "name": "Tom Harper",
+        "sex": 0
+    }, {
+        "id": 1196018,
+        "name": "Crispin Reece",
+        "sex": 0
+    }, {
+        "id": 235820,
+        "name": "Christopher Spencer",
+        "sex": 0
+    }, {
+        "id": 32838,
+        "name": "Tony Mitchell",
+        "sex": 0
+    }, {
+        "id": 1420294,
+        "name": "Alex Garcia Lopez",
+        "sex": 0
+    }, {
+        "id": 22214,
+        "name": "David Wain",
+        "sex": 2
+    }, {
+        "id": 109191,
+        "name": "Hiroyuki Imaishi"
+    }, {
+        "id": 30149,
+        "name": "Mikael Salomon",
+        "sex": 2
+    }, {
+        "id": 27146,
+        "name": "Rob Lieberman",
+        "sex": 2
+    }, {
+        "id": 125544,
+        "name": "Tim Fywell",
+        "sex": 0
+    }, {
+        "id": 122590,
+        "name": "Richard Laxton",
+        "sex": 2
+    }, {
+        "id": 190873,
+        "name": "Jessica Hobbs",
+        "sex": 1
+    }, {
+        "id": 65304,
+        "name": "Franc Roddam",
+        "sex": 0
+    }, {
+        "id": 79925,
+        "name": "Herbert Wise",
+        "sex": 2
+    }, {
+        "id": 301974,
+        "name": "Daniel Percival",
+        "sex": 0
+    }, {
+        "id": 91666,
+        "name": "David Wickes",
+        "sex": 0
+    }, {
+        "id": 65678,
+        "name": "John Lafia",
+        "sex": 2
+    }, {
+        "id": 93223,
+        "name": "Brian Kirk",
+        "sex": 2
+    }, {
+        "id": 41041,
+        "name": "Christopher Smith",
+        "sex": 2
+    }, {
+        "id": 1228262,
+        "name": "Philip Martin",
+        "sex": 0
+    }, {
+        "id": 1243962,
+        "name": "Tatsuyuki Nagai",
+        "sex": 0
+    }, {
+        "id": 1723,
+        "name": "Walter Hill",
+        "sex": 2
+    }, {
+        "id": 115677,
+        "name": "Coky Giedroyc",
+        "sex": 1
+    }, {
+        "id": 133873,
+        "name": "Aisling Walsh",
+        "sex": 1
+    }, {
+        "id": 24657,
+        "name": "Franco Zeffirelli",
+        "sex": 2
+    }, {
+        "id": 40333,
+        "name": "Satoshi Kon",
+        "sex": 0
+    }, {
+        "id": 143468,
+        "name": "Giacomo Campiotti",
+        "sex": 0
+    }, {
+        "id": 70520,
+        "name": "Shane Meadows",
+        "sex": 2
+    }, {
+        "id": 77104,
+        "name": "Charles Sturridge",
+        "sex": 2
+    }, {
+        "id": 33316,
+        "name": "David Nutter",
+        "sex": 0
+    }, {
+        "id": 218373,
+        "name": "Hugo Blick",
+        "sex": 2
+    }, {
+        "id": 142618,
+        "name": "Adam Curtis",
+        "sex": 2
+    }, {
+        "id": 57115,
+        "name": "Victor Nelli Jr."
+    }, {
+        "id": 139651,
+        "name": "Nick Copus",
+        "sex": 2
+    }, {
+        "id": 1168899,
+        "name": "Ian Kirby",
+        "sex": 0
+    }, {
+        "id": 1214518,
+        "name": "Alice Troughton",
+        "sex": 1
+    }, {
+        "id": 1579059,
+        "name": "Vanessa Caswill",
+        "sex": 0
+    }, {
+        "id": 1407144,
+        "name": "China Moo-Young",
+        "sex": 1
+    }, {
+        "id": 64815,
+        "name": "Robert Iscove",
+        "sex": 2
+    }, {
+        "id": 1203461,
+        "name": "Russ Malkin",
+        "sex": 0
+    }, {
+        "id": 126180,
+        "name": "David Alexanian",
+        "sex": 0
+    }, {
+        "id": 18308,
+        "name": "Steve Barron",
+        "sex": 2
+    }, {
+        "id": 76418,
+        "name": "Stuart Gillard",
+        "sex": 2
+    }, {
+        "id": 1574675,
+        "name": "Charlie Bean"
+    }, {
+        "id": 96001,
+        "name": "John Kent Harrison",
+        "sex": 2
+    }, {
+        "id": 107736,
+        "name": "John Henderson",
+        "sex": 2
+    }, {
+        "id": 144798,
+        "name": "Simon Cellan Jones",
+        "sex": 0
+    }, {
+        "id": 1447337,
+        "name": "Perry Zombolas"
+    }, {
+        "id": 120883,
+        "name": "James Steven Sadwith",
+        "sex": 0
+    }, {
+        "id": 35525,
+        "name": "Richard T. Heffron",
+        "sex": 2
+    }, {
+        "id": 95901,
+        "name": "Bruno Dumont",
+        "sex": 2
+    }, {
+        "id": 40549,
+        "name": "Daniel Petrie",
+        "sex": 2
+    }, {
+        "id": 133502,
+        "name": "Simon Curtis",
+        "sex": 2
+    }, {
+        "id": 72258,
+        "name": "Steve Boyum",
+        "sex": 2
+    }, {
+        "id": 1174031,
+        "name": "George T. Miller",
+        "sex": 0
+    }, {
+        "id": 1211830,
+        "name": "Stefan Scaini",
+        "sex": 0
+    }, {
+        "id": 1483924,
+        "name": "Hiroyuki Yamashita",
+        "sex": 2
+    }, {
+        "id": 172,
+        "name": "Michael Winterbottom",
+        "sex": 2
+    }, {
+        "id": 65298,
+        "name": "Brian Henson",
+        "sex": 2
+    }, {
+        "id": 1174090,
+        "name": "Farren Blackburn",
+        "sex": 0
+    }, {
+        "id": 99280,
+        "name": "Mark Zakharov",
+        "sex": 0
+    }, {
+        "id": 1032506,
+        "name": "Osamu Kasai",
+        "sex": 0
+    }, {
+        "id": 936523,
+        "name": "Minoru Okazaki",
+        "sex": 0
+    }, {
+        "id": 1466681,
+        "name": "Joseph Spadaro"
+    }, {
+        "id": 564090,
+        "name": "Danny Gavidia"
+    }, {
+        "id": 1439886,
+        "name": "David Posada"
+    }]
+}

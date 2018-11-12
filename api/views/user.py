@@ -1,52 +1,50 @@
-from django.http import HttpResponse, Http404
-from ..models import User
+from django.http import JsonResponse
+from ..models import User, Movie, TV
 
 
 def get_user_details(request, username):
-    if User.objects.filter(pk=username).exists():
-        return HttpResponse(User.objects.get(pk=username))
-    return Http404("User not found")
+    try:
+        user = User.objects.get(pk=username)
+        return JsonResponse(user, 200)
+    except User.DoesNotExist:
+        return JsonResponse({"message": "User with username={} not found".format(username)}, 400)
 
 
 def like_movie(request):
     try:
-        movie_id = str(request.POST['movie_id'])
-        username = request.POST['username']
-    except KeyError:
-        raise Http404("Incomplete data")
-    if User.objects.filter(pk=username).exists():
+        movie_id = request.POST["movie_id"]
+        username = request.POST["username"]
+        movie = Movie.objects.get(pk=movie_id)
         user = User.objects.get(pk=username)
-        favorites = user.get_favorite_movies()
-        if movie_id in favorites:
-            favorites.remove(movie_id)
-            response_msg = "Movie removed from favorites"
-        else:
-            favorites.append(movie_id)
-            response_msg = "Movie added to favorites"
-        user.favorite_movies = " ".join(favorites)
-        user.save()
-        return HttpResponse(response_msg)
+    except KeyError:
+        return JsonResponse({"message": "Incomplete data"}, 400)
+    except (User.DoesNotExist, Movie.DoesNotExist):
+        return JsonResponse({"message": "Invalid request"}, 400)
+    if user.liked_movies.filter(pk=movie_id).exists():
+        user.liked_movies.add(movie)
+        response_message = "Movie added to favorites"
     else:
-        raise Http404("User not present")
+        user.liked_movies.remove(movie)
+        response_message = "Movie removed from favorites"
+    user.save()
+    return JsonResponse({"message": response_message}, 200)
 
 
 def like_tv(request):
     try:
-        tv_id = str(request.POST['tv_id'])
-        username = request.POST['username']
-    except KeyError:
-        raise Http404("Incomplete data")
-    if User.objects.filter(pk=username).exists():
+        tv_id = request.POST["tv_id"]
+        username = request.POST["username"]
+        tv = TV.objects.get(pk=tv_id)
         user = User.objects.get(pk=username)
-        favorites = user.get_favorite_tv()
-        if tv_id in favorites:
-            favorites.remove(tv_id)
-            response_msg = "TV removed from favorites"
-        else:
-            favorites.append(tv_id)
-            response_msg = "TV added to favorites"
-        user.favorite_tv = " ".join(favorites)
-        user.save()
-        return HttpResponse(response_msg)
+    except KeyError:
+        return JsonResponse({"message": "Incomplete data"}, 400)
+    except (User.DoesNotExist, TV.DoesNotExist):
+        return JsonResponse({"message": "Invalid request"}, 400)
+    if user.liked_tv.filter(pk=tv_id).exists():
+        user.liked_tv.add(tv)
+        response_message = "TV added to favorites"
     else:
-        raise Http404("User not present")
+        user.liked_tv.remove(tv)
+        response_message = "TV removed from favorites"
+    user.save()
+    return JsonResponse({"message": response_message}, 200)
