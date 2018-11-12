@@ -1,3 +1,4 @@
 from .user import *
 from .auth import *
-from .seed import *
+from .movies import *
+from .tv import *

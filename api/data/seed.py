@@ -1,8 +1,8 @@
 import json
 import codecs
 import requests
-from ..models import *
 from django.utils.dateparse import parse_date
+from ..models import *
 
 
 SEXES = ["O", "F", "M"]
@@ -83,8 +83,8 @@ def seed_movies_with_plot():
         for attribute in attributes_to_remove:
             movie_details.pop(attribute, None)
         movie_collection.append(movie_details)
-        # movie.plot = movie_details["overview"]
-        # movie.save()
+        movie.plot = movie_details["overview"]
+        movie.save()
     with open("api/data/movie_collection.json", "w") as file:
         json.dump(movie_collection, file, indent=4)
 
@@ -127,8 +127,8 @@ def seed_tv_with_plot():
         for attribute in attributes_to_remove:
             tv_details.pop(attribute, None)
         tv_collection.append(tv_details)
-        # tv.plot = tv_details["overview"]
-        # tv.save()
+        tv.plot = tv_details["overview"]
+        tv.save()
     with open("api/data/tv_collection.json", "w") as file:
         json.dump(tv_collection, file, indent=4)
 
