@@ -11,6 +11,6 @@ urlpatterns = [
     path('movies', views.get_all_movies, name="get_movies"),
     path('movies/<str:movie_id>', views.get_movie_details, name="movie_details"),
     path('tv', views.get_all_tv, name="get_tv"),
-    path('tv/<str:tv_id>', views.get_tv_details, name="tv_details")
-    path('irs-system', views.irs, name="irs")
+    path('tv/<str:tv_id>', views.get_tv_details, name="tv_details"),
+    path('irs/director/<str:query>', views.query_director, name="irs_director")
 ]
