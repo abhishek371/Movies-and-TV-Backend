@@ -2,10 +2,11 @@ import codecs
 import json
 from django.http import JsonResponse
 from ..models import Director
+import math
 
-
-NUM_KEYWORDS = 25
-BETA = 0.5
+NUM_RESULTS = 10
+NUM_KEYWORDS = 30
+BETA = 0.4
 IGNORED_WORDS = ["and", "the", "a", "of", "an", "with", "on", "in", "for", "to", "but", "his",
                  "it", "her", "they", "their", "us", "we", "you", "i", "because", "though", "while",
                  "when", "what", "how", "its", "by", "he", "him", "she", "is", "are", "at",
@@ -40,21 +41,18 @@ def query_director(request, query):
         ranking.append((key, val[0] * val[1]))
         max_val = max(max_val, val[0] * val[1])
     ranking.sort(key=lambda x: x[1], reverse=True)
-    print(ranking)
-    print("\n\n")
     ranking = ranking[:NUM_KEYWORDS]
     ranks = {}
     for entry in ranking:
         ranks[entry[0]] = (BETA * entry[1]) / max_val
     # for word in query.lower().split(" "):
     #     ranks[word] = 1
-    print(ranks)
-    print("\n\n\n")
     movie_collection = codecs.open("api/data/movie_collection.json", encoding="utf_8", errors="ignore").read()
     collection = json.loads(movie_collection)
     # tv_collection = codecs.open("api/data/tv_collection.json", encoding="utf_8", errors="ignore").read()
     # collection += json.loads(tv_collection)
-    results = []
+    df = {}
+    tf = [{} for _ in range(len(collection))]
     for index, doc in enumerate(collection):
         score = 0
         data = []
@@ -72,17 +70,28 @@ def query_director(request, query):
                 data += str(val).lower().split(" ")
         # data = " ".join(data)
         # data = " ".join([str(doc[key]) for key in doc.keys()])
-        if index == 1:
-            print(data)
-            print("\n\n\n")
         for word in data:
             if word in ranks:
-                score += ranks[word]
-        results.append((index, score))
+                if word not in tf[index]:
+                    tf[index][word] = 0
+                    if word not in df:
+                        df[word] = 0
+                    df[word] += 1
+                tf[index][word] += 1
+        # for key, val in tf.items():
+        #     score += (1 + math.log(val))
+        # results.append([index, score])
+    results=[]
+    n = len(collection)
+    for index in range(n):
+        score = 0
+        for key, val in tf[index].items():
+            score += ranks[key] * (math.log(n // df[key]) * (1 + math.log(val)))
+        results.append([index, score])
+        
     results.sort(key=lambda x: x[1], reverse=True)
-    results = results[:15]
+    results = results[:NUM_RESULTS]
     response = []
     for result in results:
         response.append(collection[result[0]])
-    print(json.dumps(response[0], indent=4))
     return JsonResponse({"response": response}, status=200)
