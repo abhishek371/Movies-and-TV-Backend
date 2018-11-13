@@ -10,8 +10,14 @@ def get_user_details(request, username):
             "name": user_details.name,
             "email": user_details.email,
             "dob": user_details.dob,
-            "sex": user_details.sex
+            "sex": user_details.sex,
+            "liked_movies": [],
+            "liked_tv": []
         }
+        for movie in user_details.liked_movies.all():
+            user["liked_movies"].append(movie.id)
+        for tv in user_details.liked_tv.all():
+            user["liked_tv"].append(tv.id)
         return JsonResponse(user, status=200)
     except User.DoesNotExist:
         return JsonResponse({"message": "User with username={} not found".format(username)}, status=400)
