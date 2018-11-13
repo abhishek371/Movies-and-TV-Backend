@@ -5,3 +5,5 @@
 .idea
 db.sqlite3
 .vscode
+/api/views/__pycache__
+/api/data/__pycache__

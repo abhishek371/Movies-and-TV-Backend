@@ -24,9 +24,10 @@ class Actor(models.Model):
     sex = models.CharField(max_length=1)
 
 
-class Movies(models.Model):
+class Movie(models.Model):
     id = models.IntegerField(primary_key=True, unique=True)
     title = models.CharField(max_length=50)
+    plot = models.CharField(max_length=1000, null=True)
     release_date = models.DateField()
     runtime = models.IntegerField()
     ratings = models.FloatField()
@@ -39,6 +40,7 @@ class Movies(models.Model):
 class TV(models.Model):
     id = models.IntegerField(primary_key=True, unique=True)
     title = models.CharField(max_length=50)
+    plot = models.CharField(max_length=1000, null=True)
     start_date = models.DateField()
     ratings = models.FloatField()
     no_of_seasons = models.IntegerField()
@@ -54,7 +56,7 @@ class User(models.Model):
     password = models.CharField(max_length=1000)
     name = models.CharField(max_length=30)
     email = models.CharField(max_length=30)
-    dob = models.DateField(default=date.today)
+    dob = models.DateField()
     sex = models.CharField(max_length=1)
-    liked_movies = models.ManyToManyField(Movies)
+    liked_movies = models.ManyToManyField(Movie)
     liked_tv = models.ManyToManyField(TV)
